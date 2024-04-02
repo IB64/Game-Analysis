@@ -26,13 +26,15 @@ def get_owned_games(steam_id: str) -> dict:
     return response.json()
 
 
-def get_game_names(data: dict) -> list:
+def get_games_info(data: dict) -> dict:
     """
-    Given JSON data from calling the Steam API, return the names of the games.
+    Given JSON data from calling the Steam API, return the names and ids of the games.
     """
     result = []
     for game in data["response"]["games"]:
-        result.append(game["name"])
+        result.append({"id": game["appid"],
+                       "name": game["name"],
+                       "playtime": game["playtime_forever"]})
     return result
 
 
@@ -62,15 +64,25 @@ def extract_genre(html: str) -> str:
         "span", {"data-panel": '{"flow-children":"row"}'})
     return genres.text
 
+def get_steam_ids() -> list:
+    with open("steam_ids.txt", "r") as file:
+        content = file.read().splitlines()
+    return content
+
 
 if __name__ == "__main__":
     load_dotenv()
-    # Dragon's Dogma 2
-    web_page = get_html("2054970")
-    game_genres = extract_genre(web_page)
-    print(game_genres)
 
-    # Uses steam id of OilyBurger
-    my_owned_games = get_owned_games("76561198235391392")
-    game_names = get_game_names(my_owned_games)
-    print(game_names)
+    # gets list of all games
+    steam_ids = get_steam_ids()
+    for person in steam_ids:
+        owned_games = get_owned_games(person)
+        games = get_games_info(owned_games)
+    
+        for game in games:
+            web_page = get_html(game["id"])
+            game_genres = extract_genre(web_page)
+            print(game["name"])
+            print(game["id"])
+            print(game["playtime"])
+            print(f"{game_genres}")
