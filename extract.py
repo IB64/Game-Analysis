@@ -87,7 +87,7 @@ if __name__ == "__main__":
                 'GameId': game['id'],
                 'Game_Name': game['name'],
                 'Game_Genres': game_genres,
-                'Playtime_Seconds': game['playtime']
+                'Playtime_Minutes': game['playtime']
                 })
             
     df = pd.DataFrame(games_data)
