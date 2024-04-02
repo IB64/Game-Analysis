@@ -1,6 +1,6 @@
 """Script to extract information from the Steam API and to extract game genres"""
+import pandas as pd
 from os import environ
-
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 import requests
@@ -75,6 +75,7 @@ if __name__ == "__main__":
 
     # gets list of all games
     steam_ids = get_steam_ids()
+    games_data = [] #empty list
     for person in steam_ids:
         owned_games = get_owned_games(person)
         games = get_games_info(owned_games)
@@ -82,7 +83,21 @@ if __name__ == "__main__":
         for game in games:
             web_page = get_html(game["id"])
             game_genres = extract_genre(web_page)
-            print(game["name"])
-            print(game["id"])
-            print(game["playtime"])
-            print(f"{game_genres}")
+            games_data.append({
+                'GameId': game['id'],
+                'Game_Name': game['name'],
+                'Game_Genres': game_genres,
+                'Playtime_Seconds': game['playtime']
+                })
+            
+    df = pd.DataFrame(games_data)
+    pd.set_option('display.max_rows', None)
+    pd.set_option('display.max_columns', None)
+
+    df.to_csv('game_data.csv', index=False)
+
+    print(df)        
+            #print(game["name"])
+            #print(game["id"])
+            #print(game["playtime"])
+            #print(f"{game_genres}")
