@@ -63,6 +63,27 @@ def extract_genre(html: str) -> str:
         "span", {"data-panel": '{"flow-children":"row"}'})
     return genres.text.split(", ")
 
+
+def valid_steam_id(steam_id: str) -> bool:
+    """
+    Given a string for steam id, check if it's valid. Return True if it is.
+    """
+    url = f"https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key={environ['STEAM_API_KEY']}&steamids={steam_id}"
+    try:
+        response = requests.get(url, timeout=TIMEOUT)
+    except ConnectionError as exc:
+        raise ConnectionError("Connection failed") from exc
+    except Timeout as exc:
+        raise Timeout("The request timed out.") from exc
+    except HTTPError as exc:
+        raise HTTPError("url is invalid.") from exc
+
+    info = response.json()
+    if not info["response"]["players"]:
+        return False
+    return True
+
+
 def get_steam_ids() -> list:
     with open("steam_ids.txt", "r") as file:
         content = file.read().splitlines()
