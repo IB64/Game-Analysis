@@ -1,8 +1,7 @@
 """Script to extract information from the Steam API and to extract game genres"""
-import pandas as pd
 from os import environ
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
+
 import requests
 from requests.exceptions import Timeout, HTTPError
 
@@ -26,7 +25,7 @@ def get_owned_games(steam_id: str) -> dict:
     return response.json()
 
 
-def get_games_info(data: dict) -> dict:
+def get_games_info(data: dict) -> list:
     """
     Given JSON data from calling the Steam API, return the names and ids of the games.
     """
@@ -62,42 +61,9 @@ def extract_genre(html: str) -> str:
     soup = BeautifulSoup(html, "lxml")
     genres = soup.find(
         "span", {"data-panel": '{"flow-children":"row"}'})
-    return genres.text
+    return genres.text.split(", ")
 
 def get_steam_ids() -> list:
     with open("steam_ids.txt", "r") as file:
         content = file.read().splitlines()
     return content
-
-
-if __name__ == "__main__":
-    load_dotenv()
-
-    # gets list of all games
-    steam_ids = get_steam_ids()
-    games_data = [] #empty list
-    for person in steam_ids:
-        owned_games = get_owned_games(person)
-        games = get_games_info(owned_games)
-    
-        for game in games:
-            web_page = get_html(game["id"])
-            game_genres = extract_genre(web_page)
-            games_data.append({
-                'GameId': game['id'],
-                'Game_Name': game['name'],
-                'Game_Genres': game_genres,
-                'Playtime_Minutes': game['playtime']
-                })
-            
-    df = pd.DataFrame(games_data)
-    pd.set_option('display.max_rows', None)
-    pd.set_option('display.max_columns', None)
-
-    df.to_csv('game_data.csv', index=False)
-
-    print(df)        
-            #print(game["name"])
-            #print(game["id"])
-            #print(game["playtime"])
-            #print(f"{game_genres}")
