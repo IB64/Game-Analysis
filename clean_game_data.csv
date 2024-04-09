@@ -1,397 +1,1912 @@
 Game_Id,Game_Name,Game_Genres,Playtime_Minutes
-105600,Terraria,Action,34
-105600,Terraria,Adventure,34
-105600,Terraria,Indie,34
-105600,Terraria,RPG,34
-218680,Scribblenauts Unlimited,Adventure,90
-218680,Scribblenauts Unlimited,Casual,90
-218680,Scribblenauts Unlimited,Strategy,90
-219340,The Banner Saga: Factions,Free to Play,11
-219340,The Banner Saga: Factions,Indie,11
-219340,The Banner Saga: Factions,RPG,11
-219340,The Banner Saga: Factions,Strategy,11
-230410,Warframe,Action,293
-230410,Warframe,RPG,293
-230410,Warframe,Free to Play,293
-238960,Path of Exile,Action,29
-238960,Path of Exile,Adventure,29
-238960,Path of Exile,Indie,29
-238960,Path of Exile,Massively Multiplayer,29
-238960,Path of Exile,RPG,29
-238960,Path of Exile,Free to Play,29
-258700,Dragon Nest Europe,Action,1227
-258700,Dragon Nest Europe,Adventure,1227
-258700,Dragon Nest Europe,Free to Play,1227
-258700,Dragon Nest Europe,Massively Multiplayer,1227
-258700,Dragon Nest Europe,RPG,1227
-248570,Toribash,Action,555
-248570,Toribash,Free to Play,555
-248570,Toribash,Indie,555
-248570,Toribash,Strategy,555
-216150,MapleStory,Action,17040
-216150,MapleStory,Adventure,17040
-216150,MapleStory,Casual,17040
-216150,MapleStory,Massively Multiplayer,17040
-216150,MapleStory,RPG,17040
-216150,MapleStory,Free to Play,17040
-242760,The Forest,Action,806
-242760,The Forest,Adventure,806
-242760,The Forest,Indie,806
-242760,The Forest,Simulation,806
-239820,Game Dev Tycoon,Casual,356
-239820,Game Dev Tycoon,Indie,356
-239820,Game Dev Tycoon,Simulation,356
-239820,Game Dev Tycoon,Strategy,356
-269210,Hero Siege,Action,25
-269210,Hero Siege,Adventure,25
-269210,Hero Siege,Indie,25
-269210,Hero Siege,Massively Multiplayer,25
-269210,Hero Siege,RPG,25
-271590,Grand Theft Auto V,Action,17
-271590,Grand Theft Auto V,Adventure,17
-311690,Enter the Gungeon,Action,20
-311690,Enter the Gungeon,Adventure,20
-311690,Enter the Gungeon,Indie,20
-215080,WAKFU,Action,7705
-215080,WAKFU,Adventure,7705
-215080,WAKFU,Casual,7705
-215080,WAKFU,Indie,7705
-215080,WAKFU,Massively Multiplayer,7705
-215080,WAKFU,RPG,7705
-215080,WAKFU,Strategy,7705
-215080,WAKFU,Free to Play,7705
-268420,Aura Kingdom,Adventure,402
-268420,Aura Kingdom,Casual,402
-268420,Aura Kingdom,Free to Play,402
-268420,Aura Kingdom,Massively Multiplayer,402
-268420,Aura Kingdom,RPG,402
-730,Counter-Strike 2,Action,4265
-730,Counter-Strike 2,Free to Play,4265
-346110,ARK: Survival Evolved,Action,98
-346110,ARK: Survival Evolved,Adventure,98
-346110,ARK: Survival Evolved,Indie,98
-346110,ARK: Survival Evolved,Massively Multiplayer,98
-346110,ARK: Survival Evolved,RPG,98
+10,Counter-Strike,Action,8
+80,Counter-Strike: Condition Zero,Action,0
+100,Counter-Strike: Condition Zero Deleted Scenes,Action,0
+240,Counter-Strike: Source,Action,0
+6880,Just Cause,Action,0
+500,Left 4 Dead,Action,0
+550,Left 4 Dead 2,Action,611
+8190,Just Cause 2,Action,0
+8190,Just Cause 2,Adventure,0
+113400,APB Reloaded,Action,0
+113400,APB Reloaded,Massively Multiplayer,0
+113400,APB Reloaded,Free to Play,0
+236390,War Thunder,Action,0
+236390,War Thunder,Massively Multiplayer,0
+236390,War Thunder,Simulation,0
+236390,War Thunder,Free to Play,0
+240600,MotoGP™13,Racing,0
+240600,MotoGP™13,Simulation,0
+240600,MotoGP™13,Sports,0
+222880,Insurgency,Action,146
+222880,Insurgency,Indie,146
+222880,Insurgency,Strategy,146
+286160,Tabletop Simulator,Casual,1999
+286160,Tabletop Simulator,Indie,1999
+286160,Tabletop Simulator,RPG,1999
+286160,Tabletop Simulator,Simulation,1999
+286160,Tabletop Simulator,Strategy,1999
+289650,Assassin's Creed Unity,Action,0
+289650,Assassin's Creed Unity,Adventure,0
+730,Counter-Strike 2,Action,525
+730,Counter-Strike 2,Free to Play,525
+346900,AdVenture Capitalist,Casual,0
+346900,AdVenture Capitalist,Free to Play,0
+346900,AdVenture Capitalist,Indie,0
+386360,SMITE,Action,0
+386360,SMITE,Adventure,0
+386360,SMITE,Casual,0
+386360,SMITE,Massively Multiplayer,0
+386360,SMITE,RPG,0
+386360,SMITE,Strategy,0
+386360,SMITE,Free to Play,0
+444090,Paladins,Action,1714
+444090,Paladins,Adventure,1714
+444090,Paladins,Massively Multiplayer,1714
+444090,Paladins,Strategy,1714
+444090,Paladins,Free to Play,1714
+563560,Alien Swarm: Reactive Drop,Action,144
+563560,Alien Swarm: Reactive Drop,Free to Play,144
+601510,Yu-Gi-Oh! Duel Links,Strategy,5907
+601510,Yu-Gi-Oh! Duel Links,Free to Play,5907
+621830,WRC 7,Racing,0
+972170,Echo Of Soul,Massively Multiplayer,1
+972170,Echo Of Soul,RPG,1
+972170,Echo Of Soul,Early Access,1
+1025580,Vainglory,Free to Play,170
+1025580,Vainglory,Strategy,170
+1025580,Vainglory,Early Access,170
+44350,GRID 2,Racing,48
+44350,GRID 2,Sports,48
+582660,Black Desert,Action,0
+582660,Black Desert,Adventure,0
+582660,Black Desert,Massively Multiplayer,0
+582660,Black Desert,RPG,0
+582660,Black Desert,Simulation,0
+582660,Black Desert,Strategy,0
+836620,Black Desert (Retired),Action,0
+836620,Black Desert (Retired),Adventure,0
+836620,Black Desert (Retired),Massively Multiplayer,0
+836620,Black Desert (Retired),RPG,0
+836620,Black Desert (Retired),Simulation,0
+836620,Black Desert (Retired),Strategy,0
+1125480,School Years,Adventure,0
+1125480,School Years,Indie,0
+1125480,School Years,RPG,0
+1125480,School Years,Simulation,0
+1377580,Soulworker,Action,0
+1377580,Soulworker,Massively Multiplayer,0
+1377580,Soulworker,RPG,0
+1377580,Soulworker,Free to Play,0
+1449850,Yu-Gi-Oh!  Master Duel,Simulation,5985
+1449850,Yu-Gi-Oh!  Master Duel,Strategy,5985
+1449850,Yu-Gi-Oh!  Master Duel,Free to Play,5985
+1607250,MY HERO ULTRA RUMBLE,Action,0
+1607250,MY HERO ULTRA RUMBLE,Casual,0
+1607250,MY HERO ULTRA RUMBLE,Free to Play,0
+1827180,Toram Online,Massively Multiplayer,73
+1827180,Toram Online,RPG,73
+1827180,Toram Online,Free to Play,73
+1515950,Capcom Arcade Stadium,Action,0
+1515950,Capcom Arcade Stadium,Free to Play,0
+4000,Garry's Mod,Casual,10213
+4000,Garry's Mod,Indie,10213
+4000,Garry's Mod,Simulation,10213
+500,Left 4 Dead,Action,1
+550,Left 4 Dead 2,Action,3174
+10680,Aliens vs. Predator,Action,2326
+22380,Fallout: New Vegas,Action,564
+22380,Fallout: New Vegas,RPG,564
+620,Portal 2,Action,762
+620,Portal 2,Adventure,762
+105600,Terraria,Action,6625
+105600,Terraria,Adventure,6625
+105600,Terraria,Indie,6625
+105600,Terraria,RPG,6625
+200210,Realm of the Mad God Exalt,Action,1635
+200210,Realm of the Mad God Exalt,Free to Play,1635
+200210,Realm of the Mad God Exalt,Indie,1635
+200210,Realm of the Mad God Exalt,Massively Multiplayer,1635
+200210,Realm of the Mad God Exalt,RPG,1635
+212200,Mabinogi,Action,61
+212200,Mabinogi,Adventure,61
+212200,Mabinogi,Casual,61
+212200,Mabinogi,Massively Multiplayer,61
+212200,Mabinogi,RPG,61
+212200,Mabinogi,Simulation,61
+212200,Mabinogi,Free to Play,61
+206480,Dungeons & Dragons Online®,Action,87
+206480,Dungeons & Dragons Online®,Adventure,87
+206480,Dungeons & Dragons Online®,Massively Multiplayer,87
+206480,Dungeons & Dragons Online®,RPG,87
+206480,Dungeons & Dragons Online®,Free to Play,87
+248570,Toribash,Action,28
+248570,Toribash,Free to Play,28
+248570,Toribash,Indie,28
+248570,Toribash,Strategy,28
+262410,World of Guns: Gun Disassembly,Action,253
+262410,World of Guns: Gun Disassembly,Casual,253
+262410,World of Guns: Gun Disassembly,Free to Play,253
+262410,World of Guns: Gun Disassembly,Indie,253
+262410,World of Guns: Gun Disassembly,Simulation,253
+262410,World of Guns: Gun Disassembly,Strategy,253
+265630,Fistful of Frags,Action,85
+265630,Fistful of Frags,Free to Play,85
+265630,Fistful of Frags,Indie,85
+224260,No More Room in Hell,Action,13
+224260,No More Room in Hell,Indie,13
+224260,No More Room in Hell,Free to Play,13
+246900,Viscera Cleanup Detail,Indie,76
+246900,Viscera Cleanup Detail,Simulation,76
+255520,Viscera Cleanup Detail: Shadow Warrior,Indie,0
+255520,Viscera Cleanup Detail: Shadow Warrior,Simulation,0
+265210,Viscera Cleanup Detail: Santa's Rampage,Indie,122
+265210,Viscera Cleanup Detail: Santa's Rampage,Simulation,122
+218640,Lucius,Action,40
+218640,Lucius,Adventure,40
+218640,Lucius,Indie,40
+271590,Grand Theft Auto V,Action,322
+271590,Grand Theft Auto V,Adventure,322
+284160,BeamNG.drive,Racing,5553
+284160,BeamNG.drive,Simulation,5553
+284160,BeamNG.drive,Early Access,5553
+206420,Saints Row IV,Action,241
+206420,Saints Row IV,Adventure,241
+326460,ShellShock Live,Action,107
+326460,ShellShock Live,Casual,107
+326460,ShellShock Live,Indie,107
+326460,ShellShock Live,Massively Multiplayer,107
+326460,ShellShock Live,Strategy,107
+274940,Depth,Action,336
+274940,Depth,Indie,336
+337320,Paint the Town Red,Action,0
+337320,Paint the Town Red,Indie,0
+250900,The Binding of Isaac: Rebirth,Action,26062
+230290,Universe Sandbox,Casual,87
+230290,Universe Sandbox,Indie,87
+230290,Universe Sandbox,Simulation,87
+230290,Universe Sandbox,Early Access,87
+356670,Spooky's Jump Scare Mansion,Action,19
+356670,Spooky's Jump Scare Mansion,Adventure,19
+356670,Spooky's Jump Scare Mansion,Free to Play,19
+356670,Spooky's Jump Scare Mansion,Indie,19
+223470,POSTAL 2,Action,6511
+223470,POSTAL 2,Adventure,6511
+223470,POSTAL 2,Indie,6511
+383150,Dead Island Definitive Edition,Action,22
+291550,Brawlhalla,Action,7740
+291550,Brawlhalla,Indie,7740
+291550,Brawlhalla,Free to Play,7740
+410890,Higurashi When They Cry Hou - Ch.2 Watanagashi,Adventure,0
+418530,Spelunky 2,Action,53
+418530,Spelunky 2,Indie,53
+430210,Megaton Rainfall,Action,24
+430210,Megaton Rainfall,Indie,24
+434570,Blood and Bacon,Action,431
+434570,Blood and Bacon,Adventure,431
+434570,Blood and Bacon,Casual,431
+438100,VRChat,Adventure,15
+438100,VRChat,Casual,15
+438100,VRChat,Massively Multiplayer,15
+438100,VRChat,Simulation,15
+438100,VRChat,Sports,15
+438100,VRChat,Free to Play,15
+438100,VRChat,Early Access,15
+444640,Bloons TD Battles,Action,17315
+444640,Bloons TD Battles,Free to Play,17315
+444640,Bloons TD Battles,Strategy,17315
+472870,Higurashi When They Cry Hou - Ch.3 Tatarigoroshi,Adventure,0
+327030,Worms W.M.D,Action,0
+327030,Worms W.M.D,Strategy,0
+526490,Higurashi When They Cry Hou - Ch.4 Himatsubushi,Adventure,0
+526490,Higurashi When They Cry Hou - Ch.4 Himatsubushi,Casual,0
+526490,Higurashi When They Cry Hou - Ch.4 Himatsubushi,Indie,0
+527230,For The King,Adventure,1
+527230,For The King,Indie,1
+527230,For The King,RPG,1
+527230,For The King,Strategy,1
+544730,Catan Universe,Casual,123
+544730,Catan Universe,Strategy,123
+572430,Party Hard 2 ,Action,128
+572430,Party Hard 2 ,Adventure,128
+572430,Party Hard 2 ,Indie,128
+572430,Party Hard 2 ,Simulation,128
+572430,Party Hard 2 ,Strategy,128
+577480,Higurashi When They Cry Hou - Ch.5 Meakashi,Adventure,0
+601510,Yu-Gi-Oh! Duel Links,Strategy,166
+601510,Yu-Gi-Oh! Duel Links,Free to Play,166
+611790,House Party,Adventure,11
+611790,House Party,Casual,11
+611790,House Party,Indie,11
+611790,House Party,RPG,11
+611790,House Party,Simulation,11
+306130,The Elder Scrolls Online,Action,0
+306130,The Elder Scrolls Online,Adventure,0
+306130,The Elder Scrolls Online,Massively Multiplayer,0
+306130,The Elder Scrolls Online,RPG,0
+629730,Blade & Sorcery,Action,154
+629730,Blade & Sorcery,Adventure,154
+629730,Blade & Sorcery,Indie,154
+629730,Blade & Sorcery,RPG,154
+629730,Blade & Sorcery,Simulation,154
+629730,Blade & Sorcery,Early Access,154
+386180,Crossout,Action,0
+386180,Crossout,Massively Multiplayer,0
+386180,Crossout,Racing,0
+386180,Crossout,Free to Play,0
+657200,Hand Simulator,Simulation,202
+667530,Drunken Wrestlers 2,Action,39
+667530,Drunken Wrestlers 2,Casual,39
+667530,Drunken Wrestlers 2,Indie,39
+667530,Drunken Wrestlers 2,Simulation,39
+667530,Drunken Wrestlers 2,Sports,39
+667530,Drunken Wrestlers 2,Free to Play,39
+667530,Drunken Wrestlers 2,Early Access,39
+668350,Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi,Adventure,0
+304930,Unturned,Action,10
+304930,Unturned,Adventure,10
+304930,Unturned,Casual,10
+304930,Unturned,Indie,10
+304930,Unturned,Free to Play,10
+677620,Splitgate,Action,22
+677620,Splitgate,Free to Play,22
+677620,Splitgate,Indie,22
+698780,Doki Doki Literature Club,Casual,450
+698780,Doki Doki Literature Club,Free to Play,450
+698780,Doki Doki Literature Club,Indie,450
+700330,SCP: Secret Laboratory,Action,12
+700330,SCP: Secret Laboratory,Free to Play,12
+734750,PickCrafter,Adventure,106
+734750,PickCrafter,Casual,106
+734750,PickCrafter,Indie,106
+734750,PickCrafter,RPG,106
+734750,PickCrafter,Simulation,106
+734750,PickCrafter,Strategy,106
+734750,PickCrafter,Free to Play,106
+738060,Freddy Fazbear's Pizzeria Simulator,Free to Play,133
+738060,Freddy Fazbear's Pizzeria Simulator,Indie,133
+738060,Freddy Fazbear's Pizzeria Simulator,Simulation,133
+739540,Break the Game,Adventure,54
+739540,Break the Game,Indie,54
+739630,Phasmophobia,Action,115
+739630,Phasmophobia,Indie,115
+739630,Phasmophobia,Early Access,115
+823500,BONEWORKS,Action,158
+823500,BONEWORKS,Adventure,158
+823500,BONEWORKS,Indie,158
+823500,BONEWORKS,Simulation,158
+24200,DC Universe Online,Action,0
+24200,DC Universe Online,Adventure,0
+24200,DC Universe Online,Massively Multiplayer,0
+24200,DC Universe Online,RPG,0
+24200,DC Universe Online,Free to Play,0
+871720,Ultimate Custom Night,Action,1165
+871720,Ultimate Custom Night,Free to Play,1165
+871720,Ultimate Custom Night,Indie,1165
+879420,Agony UNRATED,Action,45
+879420,Agony UNRATED,Adventure,45
+879420,Agony UNRATED,Indie,45
+924140,Hand Simulator: Survival,Action,22
+924140,Hand Simulator: Survival,Adventure,22
+924140,Hand Simulator: Survival,Indie,22
+924140,Hand Simulator: Survival,Massively Multiplayer,22
+924140,Hand Simulator: Survival,RPG,22
+924140,Hand Simulator: Survival,Simulation,22
+730,Counter-Strike 2,Action,146
+730,Counter-Strike 2,Free to Play,146
+977400,Cell to Singularity - Evolution Never Ends,Casual,111
+977400,Cell to Singularity - Evolution Never Ends,Simulation,111
+977400,Cell to Singularity - Evolution Never Ends,Free to Play,111
+1012560,Snakeybus,Action,96
+1012560,Snakeybus,Casual,96
+1012560,Snakeybus,Indie,96
+278360,A Story About My Uncle,Adventure,377
+278360,A Story About My Uncle,Casual,377
+278360,A Story About My Uncle,Indie,377
+1034940,Higurashi When They Cry Hou - Ch.7 Minagoroshi,Adventure,0
+1054490,Wingspan,Indie,1
+1054490,Wingspan,Strategy,1
+285900,Gang Beasts,Action,129
+285900,Gang Beasts,Adventure,129
+285900,Gang Beasts,Casual,129
+285900,Gang Beasts,Indie,129
+285900,Gang Beasts,Simulation,129
+1118200,People Playground,Action,175
+1118200,People Playground,Casual,175
+1118200,People Playground,Indie,175
+1118200,People Playground,Simulation,175
+1144200,Ready or Not,Action,17
+1144200,Ready or Not,Adventure,17
+1144200,Ready or Not,Indie,17
+1172620,Sea of Thieves,Action,23
+1172620,Sea of Thieves,Adventure,23
+1243670,Higurashi When They Cry Hou - Ch.8 Matsuribayashi,Adventure,0
+406970,The Uncertain: Last Quiet Day,Adventure,0
+406970,The Uncertain: Last Quiet Day,Indie,0
+203160,Tomb Raider,Action,0
+203160,Tomb Raider,Adventure,0
+289690,Lara Croft and the Temple of Osiris,Action,0
+289690,Lara Croft and the Temple of Osiris,Adventure,0
+1276390,Bloons TD Battles 2,Action,159
+1276390,Bloons TD Battles 2,Casual,159
+1276390,Bloons TD Battles 2,Indie,159
+1276390,Bloons TD Battles 2,Strategy,159
+1276390,Bloons TD Battles 2,Free to Play,159
+1281930,tModLoader,Action,859
+1281930,tModLoader,Adventure,859
+1281930,tModLoader,Indie,859
+1281930,tModLoader,RPG,859
+1281930,tModLoader,Free to Play,859
+1301720,Escape Room - The Sick Colleague,Adventure,5
+1301720,Escape Room - The Sick Colleague,Casual,5
+1301720,Escape Room - The Sick Colleague,Free to Play,5
+431240,Golf With Your Friends,Casual,33
+431240,Golf With Your Friends,Indie,33
+431240,Golf With Your Friends,Sports,33
+310360,Higurashi When They Cry Hou - Ch.1 Onikakushi,Adventure,5136
+1349230,5D Chess With Multiverse Time Travel,Indie,626
+1404210,Red Dead Online,Action,0
+1404210,Red Dead Online,Adventure,0
+1486350,VRoid Studio,Free to Play,11
+1486350,VRoid Studio,Animation & Modeling,11
+1486350,VRoid Studio,Design & Illustration,11
+1520380,HALF DEAD 3,Action,398
+1520380,HALF DEAD 3,Adventure,398
+1520380,HALF DEAD 3,Massively Multiplayer,398
+1557740,ROUNDS,Action,238
+1557740,ROUNDS,Indie,238
+20900,The Witcher: Enhanced Edition,Action,3721
+20900,The Witcher: Enhanced Edition,RPG,3721
+9480,Saints Row 2,Action,0
+1250,Killing Floor,Action,0
+35420,Killing Floor Mod: Defence Alliance 2,Action,0
+6030,STAR WARS™ Jedi Knight II: Jedi Outcast™,Action,0
+6020,STAR WARS™ Jedi Knight: Jedi Academy™,Action,0
+40700,Machinarium,Adventure,0
+40700,Machinarium,Indie,0
+40720,Samorost 2,Adventure,0
+40720,Samorost 2,Casual,0
+40720,Samorost 2,Indie,0
+32430,STAR WARS™: The Force Unleashed™ Ultimate Sith Edition,Action,0
+32440,LEGO® Star Wars™: The Complete Saga,Adventure,0
+70100,Hacker Evolution,Simulation,261
+70110,Hacker Evolution - Untold,Indie,303
+70110,Hacker Evolution - Untold,Simulation,303
+39500,Gothic 3,Action,0
+39500,Gothic 3,RPG,0
+39510,Gothic II: Gold Classic,Action,0
+39510,Gothic II: Gold Classic,RPG,0
+65540,Gothic 1 Classic,Action,3127
+65540,Gothic 1 Classic,RPG,3127
+950670,Gothic Playable Teaser,RPG,0
+31280,Poker Night at the Inventory,Casual,54
+31280,Poker Night at the Inventory,Sports,54
+31290,Back to the Future: Ep 1 - It's About Time,Adventure,0
+94500,Back to the Future: Ep 2 - Get Tannen!,NULL,0
+94510,Back to the Future: Ep 3 - Citizen Brown,NULL,0
+94520,Back to the Future: Ep 4 - Double Visions,NULL,0
+94530,Back to the Future: Ep 5 - OUTATIME,NULL,0
+33770,Drakensang The River of Time,RPG,3234
+55100,Homefront,Action,0
+49810,CreaVures,Indie,351
+32510,LEGO® Star Wars™ III: The Clone Wars™,Action,0
+32510,LEGO® Star Wars™ III: The Clone Wars™,Adventure,0
+20920,The Witcher 2: Assassins of Kings Enhanced Edition,RPG,3226
+12140,Max Payne,Action,254
+31270,Puzzle Agent,Action,210
+31270,Puzzle Agent,Adventure,210
+31270,Puzzle Agent,Casual,210
+7760,X-COM: UFO Defense,Strategy,0
+55150,"Warhammer 40,000: Space Marine - Anniversary Edition",Action,0
+3830,Psychonauts,Action,0
+80310,Gemini Rue,Adventure,0
+80310,Gemini Rue,Indie,0
+202200,Galactic Civilizations II: Ultimate Edition,Indie,0
+202200,Galactic Civilizations II: Ultimate Edition,Strategy,0
+94590,Puzzle Agent 2,Action,363
+94590,Puzzle Agent 2,Adventure,363
+94590,Puzzle Agent 2,Casual,363
+67370,The Darkness II,Action,0
+80330,The Blackwell Legacy,Adventure,398
+80330,The Blackwell Legacy,Indie,398
+80340,Blackwell Unbound,Adventure,0
+80340,Blackwell Unbound,Indie,0
+80350,Blackwell Convergence,Adventure,0
+80350,Blackwell Convergence,Indie,0
+80360,Blackwell Deception,Adventure,0
+80360,Blackwell Deception,Indie,0
+205840,Yesterday,Adventure,342
+115110,Stacking,Adventure,0
+115110,Stacking,Indie,0
+108200,Ticket to Ride,Casual,0
+108200,Ticket to Ride,Indie,0
+108200,Ticket to Ride,Strategy,0
+208580,STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™,RPG,0
+206690,iBomber Defense Pacific,Casual,0
+206690,iBomber Defense Pacific,Indie,0
+206690,iBomber Defense Pacific,Strategy,0
+207610,The Walking Dead,Adventure,847
+50300,Spec Ops: The Line,Action,0
+50300,Spec Ops: The Line,Adventure,0
+207690,Botanicula,Adventure,0
+207690,Botanicula,Casual,0
+207690,Botanicula,Indie,0
+212050,Resonance,Adventure,0
+212050,Resonance,Indie,0
+32370,STAR WARS™ Knights of the Old Republic™,Adventure,0
+32370,STAR WARS™ Knights of the Old Republic™,RPG,0
+94300,The Dream Machine,Adventure,557
+94300,The Dream Machine,Casual,557
+94300,The Dream Machine,Indie,557
+214340,Deponia,Adventure,791
+214340,Deponia,Indie,791
+31220,Sam & Max 301: The Penal Zone,Action,0
+31220,Sam & Max 301: The Penal Zone,Adventure,0
+31230,Sam & Max 302: The Tomb of Sammun-Mak,Adventure,0
+31240,Sam & Max 303: They Stole Max's Brain!,Adventure,0
+31250,Sam & Max 304: Beyond the Alley of the Dolls,Adventure,0
+31260,Sam & Max 305: The City that Dares not Sleep,Adventure,0
+213330,LEGO® Batman™ 2: DC Super Heroes,Action,0
+213330,LEGO® Batman™ 2: DC Super Heroes,Adventure,0
+11450,Overlord,RPG,0
+204360,Castle Crashers,Action,584
+204360,Castle Crashers,Adventure,584
+204360,Castle Crashers,Casual,584
+204360,Castle Crashers,Indie,584
+204360,Castle Crashers,RPG,584
+200710,Torchlight II,Action,1740
+200710,Torchlight II,Adventure,1740
+200710,Torchlight II,Indie,1740
+200710,Torchlight II,RPG,1740
+219910,Edna & Harvey: Harvey's New Eyes,Adventure,1249
+219910,Edna & Harvey: Harvey's New Eyes,Indie,1249
+223470,POSTAL 2,Action,121
+223470,POSTAL 2,Adventure,121
+223470,POSTAL 2,Indie,121
+57690,Tropico 4,Simulation,127
+57690,Tropico 4,Strategy,127
+220740,Chaos on Deponia,Adventure,943
+220740,Chaos on Deponia,Indie,943
+214510,LEGO® The Lord of the Rings™,Action,0
+214510,LEGO® The Lord of the Rings™,Adventure,0
+227000,Primordia,Adventure,0
+227000,Primordia,Indie,0
+113020,Monaco,Action,0
+113020,Monaco,Adventure,0
+113020,Monaco,Casual,0
+113020,Monaco,Indie,0
+113020,Monaco,Strategy,0
+105000,A New Beginning - Final Cut,Adventure,0
+105000,A New Beginning - Final Cut,Indie,0
+220700,RPG Maker VX Ace,Adventure,483
+220700,RPG Maker VX Ace,RPG,483
+220700,RPG Maker VX Ace,Design & Illustration,483
+220700,RPG Maker VX Ace,Education,483
+220700,RPG Maker VX Ace,Web Publishing,483
+220700,RPG Maker VX Ace,Game Development,483
+203830,The Dark Eye: Chains of Satinav,Adventure,1664
+203830,The Dark Eye: Chains of Satinav,Indie,1664
+225260,Brütal Legend,Action,0
+225260,Brütal Legend,Adventure,0
+225260,Brütal Legend,Strategy,0
+8870,BioShock Infinite,Action,0
+232750,Mars: War Logs,Action,864
+232750,Mars: War Logs,RPG,864
+44350,GRID 2,Racing,0
+44350,GRID 2,Sports,0
+210770,Sanctum 2,Action,0
+210770,Sanctum 2,Indie,0
+210770,Sanctum 2,Strategy,0
+204450,Call of Juarez Gunslinger,Action,278
+11340,Larva Mortus,Action,64
+11340,Larva Mortus,Indie,64
+234650,Shadowrun Returns,Adventure,0
+234650,Shadowrun Returns,Indie,0
+234650,Shadowrun Returns,RPG,0
+234650,Shadowrun Returns,Strategy,0
+65930,The Bureau: XCOM Declassified,Action,0
+239070,Hammerwatch,Action,213
+239070,Hammerwatch,Adventure,213
+239070,Hammerwatch,Indie,213
+239070,Hammerwatch,RPG,213
+238210,System Shock 2,Action,0
+238210,System Shock 2,RPG,0
+222730,Reus,Indie,79
+222730,Reus,Simulation,79
+222730,Reus,Strategy,79
+10680,Aliens vs. Predator,Action,0
+235720,Cubetractor,Action,1
+235720,Cubetractor,Indie,1
+235720,Cubetractor,Strategy,1
+241600,Rogue Legacy,Action,2726
+241600,Rogue Legacy,Adventure,2726
+241600,Rogue Legacy,Indie,2726
+241600,Rogue Legacy,RPG,2726
+35700,Trine,Action,492
+35700,Trine,Adventure,492
+35700,Trine,Indie,492
+35720,Trine 2,Action,146
+35720,Trine 2,Adventure,146
+35720,Trine 2,Indie,146
+242780,Cognition: An Erica Reed Thriller,Adventure,1422
+242780,Cognition: An Erica Reed Thriller,Indie,1422
+243200,Memoria,Adventure,242
+243200,Memoria,Indie,242
+244690,Face Noir,Adventure,813
+244690,Face Noir,Indie,813
+244950,Where is my Heart?,Adventure,1
+244950,Where is my Heart?,Casual,1
+244950,Where is my Heart?,Indie,1
+241410,CastleStorm,Action,1208
+241410,CastleStorm,Indie,1208
+241410,CastleStorm,Strategy,1208
+218620,PAYDAY 2,Action,0
+218620,PAYDAY 2,RPG,0
+241910,Goodbye Deponia,Adventure,907
+241910,Goodbye Deponia,Indie,907
+248190,Knytt Underground,Adventure,212
+248190,Knytt Underground,Indie,212
+242530,The Chaos Engine,Action,456
+239820,Game Dev Tycoon,Casual,216
+239820,Game Dev Tycoon,Indie,216
+239820,Game Dev Tycoon,Simulation,216
+239820,Game Dev Tycoon,Strategy,216
+250560,Fight The Dragon,Indie,910
+250560,Fight The Dragon,RPG,910
+251430,The Inner World,Adventure,8
+251430,The Inner World,Indie,8
+252010,Oniken,Action,121
+252010,Oniken,Indie,121
+252370,The Shivah,Adventure,0
+252370,The Shivah,Indie,0
+253110,The Cat Lady,Adventure,0
+253110,The Cat Lady,Indie,0
+231310,MirrorMoon EP,Adventure,0
+231310,MirrorMoon EP,Indie,0
+255300,Journey of a Roach,Adventure,410
+255300,Journey of a Roach,Indie,410
+255320,Edna & Harvey: The Breakout,Adventure,821
+255320,Edna & Harvey: The Breakout,Indie,821
+255370,KickBeat Steam Edition,Action,330
+255370,KickBeat Steam Edition,Indie,330
+233130,Shadow Warrior,Action,2964
+233130,Shadow Warrior,Adventure,2964
+255520,Viscera Cleanup Detail: Shadow Warrior,Indie,570
+255520,Viscera Cleanup Detail: Shadow Warrior,Simulation,570
+238930,"7 Grand Steps, Step 1: What Ancients Begat",Casual,267
+238930,"7 Grand Steps, Step 1: What Ancients Begat",Indie,267
+238930,"7 Grand Steps, Step 1: What Ancients Begat",Simulation,267
+238930,"7 Grand Steps, Step 1: What Ancients Begat",Strategy,267
+250400,How to Survive,Action,1460
+250400,How to Survive,Adventure,1460
+250400,How to Survive,RPG,1460
+261110,Killer is Dead,Action,0
+249130,LEGO® MARVEL Super Heroes,Action,0
+249130,LEGO® MARVEL Super Heroes,Adventure,0
+233190,Final Exam,Action,190
+233190,Final Exam,Indie,190
+262260,Jets'n'Guns Gold,Action,188
+262260,Jets'n'Guns Gold,Indie,188
+39210,FINAL FANTASY XIV Online,Massively Multiplayer,1275
+39210,FINAL FANTASY XIV Online,RPG,1275
+263460,Girls Like Robots,Adventure,331
+263460,Girls Like Robots,Casual,331
+263460,Girls Like Robots,Indie,331
+263720,Brawlout,Action,0
+263720,Brawlout,Casual,0
+263720,Brawlout,Indie,0
+264560,Quest for Infamy,Adventure,545
+264560,Quest for Infamy,Indie,545
+264560,Quest for Infamy,RPG,545
+264580,Lost Civilization,Adventure,228
+264580,Lost Civilization,Casual,228
+227300,Euro Truck Simulator 2,Indie,0
+227300,Euro Truck Simulator 2,Simulation,0
+266310,GameGuru Classic,Animation & Modeling,0
+266310,GameGuru Classic,Design & Illustration,0
+266310,GameGuru Classic,Education,0
+266310,GameGuru Classic,Software Training,0
+266310,GameGuru Classic,Utilities,0
+266310,GameGuru Classic,Game Development,0
+226840,Age of Wonders III,RPG,0
+226840,Age of Wonders III,Strategy,0
+267530,The LEGO® Movie - Videogame,Action,0
+267530,The LEGO® Movie - Videogame,Adventure,0
+267920,Gun Metal,Action,211
+268130,Heat Signature,Action,0
+268130,Heat Signature,Adventure,0
+268130,Heat Signature,Indie,0
+268130,Heat Signature,Strategy,0
+268540,The Whispered World Special Edition,Adventure,314
+268540,The Whispered World Special Edition,Indie,314
+268990,The Dishwasher: Vampire Smile,Action,356
+268990,The Dishwasher: Vampire Smile,Indie,356
+269030,The Yawhg,Indie,398
+269030,The Yawhg,RPG,398
+271550,Tribloos 2,Casual,488
+271550,Tribloos 2,Indie,488
+271550,Tribloos 2,Strategy,488
+271860,Super Killer Hornet: Resurrection,Indie,551
+272010,Aveyond 3-1: Lord of Twilight,Adventure,611
+272010,Aveyond 3-1: Lord of Twilight,Casual,611
+272010,Aveyond 3-1: Lord of Twilight,Indie,611
+272010,Aveyond 3-1: Lord of Twilight,RPG,611
+57300,Amnesia: The Dark Descent,Action,0
+57300,Amnesia: The Dark Descent,Adventure,0
+57300,Amnesia: The Dark Descent,Indie,0
+239200,Amnesia: A Machine for Pigs,Action,0
+239200,Amnesia: A Machine for Pigs,Adventure,0
+239200,Amnesia: A Machine for Pigs,Indie,0
+274230,RONIN,Action,0
+274230,RONIN,Indie,0
+274290,Gods Will Be Watching,Adventure,456
+274290,Gods Will Be Watching,Indie,456
+274350,Dropsy,Adventure,737
+274350,Dropsy,Indie,737
+274900,Murder Miners,Action,0
+274900,Murder Miners,Casual,0
+274900,Murder Miners,Indie,0
+275670,Space Run,Indie,591
+275670,Space Run,Strategy,591
+278360,A Story About My Uncle,Adventure,0
+278360,A Story About My Uncle,Casual,0
+278360,A Story About My Uncle,Indie,0
+48700,Mount & Blade: Warband,Action,0
+48700,Mount & Blade: Warband,RPG,0
+278570,Labyrinthine Dreams,Adventure,257
+278570,Labyrinthine Dreams,Casual,257
+278570,Labyrinthine Dreams,Indie,257
+250180,METAL SLUG 3,Action,803
+280160,Aragami,Action,0
+280160,Aragami,Adventure,0
+280160,Aragami,Indie,0
+282760,Circuits,Casual,219
+282760,Circuits,Indie,219
+283430,Litil Divil,Action,3
+283430,Litil Divil,Adventure,3
+283640,Salt and Sanctuary,Action,2282
+283640,Salt and Sanctuary,Indie,2282
+283640,Salt and Sanctuary,RPG,2282
+283880,Heroine's Quest: The Herald of Ragnarok,Adventure,0
+283880,Heroine's Quest: The Herald of Ragnarok,Indie,0
+283880,Heroine's Quest: The Herald of Ragnarok,RPG,0
+283880,Heroine's Quest: The Herald of Ragnarok,Free to Play,0
+284390,The Last Door - Collector's Edition,Adventure,139
+284390,The Last Door - Collector's Edition,Indie,139
+284730,Dark Arcana: The Carnival,Adventure,299
+284730,Dark Arcana: The Carnival,Casual,299
+284770,Enigmatis 2: The Mists of Ravenwood,Adventure,385
+284770,Enigmatis 2: The Mists of Ravenwood,Casual,385
+284810,Nightmares from the Deep 3: Davy Jones,Adventure,647
+284810,Nightmares from the Deep 3: Davy Jones,Casual,647
+284850,Grim Legends: The Forsaken Bride,Casual,722
+284870,9 Clues: The Secret of Serpent Creek,Adventure,722
+284870,9 Clues: The Secret of Serpent Creek,Casual,722
+284950,Pixel Puzzles: Japan,Casual,625
+284950,Pixel Puzzles: Japan,Indie,625
+284950,Pixel Puzzles: Japan,Simulation,625
+1058200,Pixel Puzzles Traditional Jigsaws,Action,1340
+1058200,Pixel Puzzles Traditional Jigsaws,Adventure,1340
+1058200,Pixel Puzzles Traditional Jigsaws,Casual,1340
+1058200,Pixel Puzzles Traditional Jigsaws,Indie,1340
+1058200,Pixel Puzzles Traditional Jigsaws,Simulation,1340
+1058200,Pixel Puzzles Traditional Jigsaws,Sports,1340
+1058200,Pixel Puzzles Traditional Jigsaws,Strategy,1340
+1058200,Pixel Puzzles Traditional Jigsaws,Free to Play,1340
+285010,Pixel Puzzles: UndeadZ,Action,1419
+285010,Pixel Puzzles: UndeadZ,Casual,1419
+285010,Pixel Puzzles: UndeadZ,Indie,1419
+285010,Pixel Puzzles: UndeadZ,Simulation,1419
+285010,Pixel Puzzles: UndeadZ,Strategy,1419
+1005240,Pixel Puzzles Illustrations & Anime,Action,0
+1005240,Pixel Puzzles Illustrations & Anime,Casual,0
+1005240,Pixel Puzzles Illustrations & Anime,Indie,0
+1005240,Pixel Puzzles Illustrations & Anime,Simulation,0
+1005240,Pixel Puzzles Illustrations & Anime,Sports,0
+1005240,Pixel Puzzles Illustrations & Anime,Strategy,0
+1005240,Pixel Puzzles Illustrations & Anime,Free to Play,0
+285090,Robowars,Action,483
+285090,Robowars,Indie,483
+285090,Robowars,Strategy,483
+285160,LEGO® The Hobbit™,Action,3407
+285160,LEGO® The Hobbit™,Adventure,3407
+285440,Crimzon Clover  WORLD IGNITION,Action,374
+285440,Crimzon Clover  WORLD IGNITION,Indie,374
+286120,QuestRun,RPG,641
+286570,F1 2015,Racing,0
+286570,F1 2015,Sports,0
+236930,Blackwell Epiphany,Adventure,0
+236930,Blackwell Epiphany,Indie,0
+288930,The Charnel House Trilogy,Adventure,231
+288930,The Charnel House Trilogy,Indie,231
+292230,Game Character Hub,Design & Illustration,1
+292230,Game Character Hub,Utilities,1
+292370,DarkEnd,Indie,417
+292370,DarkEnd,RPG,417
+292570,Chompy Chomp Chomp,Action,250
+292570,Chompy Chomp Chomp,Indie,250
+292620,Pressured,Indie,491
+292910,Deponia: The Complete Journey,Adventure,0
+264520,Moebius: Empire Rising,Adventure,768
+264520,Moebius: Empire Rising,Indie,768
+295930,Swipecart,Casual,465
+295930,Swipecart,Indie,465
+295930,Swipecart,Racing,465
+246070,Hack 'n' Slash,Adventure,0
+246070,Hack 'n' Slash,Casual,0
+246070,Hack 'n' Slash,Indie,0
+296530,Coldfire Keep,RPG,0
+297020,The Culling Of The Cows,Action,597
+297020,The Culling Of The Cows,Casual,597
+297020,The Culling Of The Cows,Indie,597
+297020,The Culling Of The Cows,Strategy,597
+299480,Rogue Stormers,Action,251
+299480,Rogue Stormers,Indie,251
+95400,ibb & obb,Action,333
+95400,ibb & obb,Adventure,333
+95400,ibb & obb,Indie,333
+306410,Crystals of Time,Casual,608
+306410,Crystals of Time,Indie,608
+63380,Sniper Elite V2,Action,549
+306950,Heroes & Legends: Conquerors of Kolhar,RPG,388
+307580,Technobabylon,Adventure,0
+307580,Technobabylon,Indie,0
+308040,Back to Bed,Action,226
+308040,Back to Bed,Casual,226
+308040,Back to Bed,Indie,226
+312670,Strange Brigade,Action,0
+312670,Strange Brigade,Adventure,0
+313650,Time Mysteries 2: The Ancient Spectres,Casual,735
+314030,Guilty Gear X2 #Reload,Action,0
+314590,room13,Action,391
+314590,room13,Casual,391
+314590,room13,Indie,391
+314790,Silence,Adventure,0
+314790,Silence,Indie,0
+315330,All Guns On Deck,Action,0
+315330,All Guns On Deck,Adventure,0
+315330,All Guns On Deck,Casual,0
+315330,All Guns On Deck,Indie,0
+315330,All Guns On Deck,RPG,0
+315330,All Guns On Deck,Simulation,0
+315330,All Guns On Deck,Strategy,0
+315330,All Guns On Deck,Early Access,0
+315650,Deep Under the Sky,Action,0
+315650,Deep Under the Sky,Casual,0
+315650,Deep Under the Sky,Indie,0
+315650,Deep Under the Sky,Strategy,0
+220820,Zombie Driver HD,Action,0
+220820,Zombie Driver HD,Indie,0
+220820,Zombie Driver HD,Racing,0
+316790,Grim Fandango Remastered,Adventure,0
+316830,Sprite Lamp,Animation & Modeling,0
+316830,Sprite Lamp,Design & Illustration,0
+317370,The Keep,Indie,78
+317370,The Keep,RPG,78
+229810,A Fistful of Gun,Action,313
+229810,A Fistful of Gun,Indie,313
+323320,Grow Home,Adventure,293
+323320,Grow Home,Casual,293
+323320,Grow Home,Indie,293
+325730,The Hive,Action,8
+325730,The Hive,Adventure,8
+325730,The Hive,Casual,8
+325730,The Hive,Indie,8
+325730,The Hive,RPG,8
+325730,The Hive,Strategy,8
+326730,Whisper of a Rose,Adventure,491
+326730,Whisper of a Rose,Indie,491
+326730,Whisper of a Rose,RPG,491
+313690,LEGO® Batman™ 3: Beyond Gotham,Action,0
+313690,LEGO® Batman™ 3: Beyond Gotham,Adventure,0
+329380,Stealth Inc 2,Action,535
+329380,Stealth Inc 2,Adventure,535
+329380,Stealth Inc 2,Indie,535
+329860,Catlateral Damage,Action,329
+329860,Catlateral Damage,Casual,329
+329860,Catlateral Damage,Indie,329
+329860,Catlateral Damage,Simulation,329
+330180,Pix the Cat,Action,361
+330180,Pix the Cat,Indie,361
+330570,Noct,Action,0
+330570,Noct,Indie,0
+330570,Noct,Early Access,0
+332360,Spriter Pro,Animation & Modeling,4132
+332360,Spriter Pro,Design & Illustration,4132
+332360,Spriter Pro,Utilities,4132
+335300,DARK SOULS™ II: Scholar of the First Sin,Action,9751
+335300,DARK SOULS™ II: Scholar of the First Sin,RPG,9751
+335840,Goats on a Bridge,Action,209
+335840,Goats on a Bridge,Casual,209
+335840,Goats on a Bridge,Indie,209
+336130,Shardlight,Adventure,0
+336130,Shardlight,Indie,0
+336130,Shardlight,RPG,0
+336140,Unavowed,Adventure,0
+336140,Unavowed,Indie,0
+336140,Unavowed,RPG,0
+337360,Dead Island Retro Revenge,Action,45
+337480,Zombie Vikings,Action,578
+337480,Zombie Vikings,Adventure,578
+338320,Pixel Heroes: Byte & Magic,Adventure,342
+338320,Pixel Heroes: Byte & Magic,Indie,342
+338320,Pixel Heroes: Byte & Magic,RPG,342
+339130,Morningstar: Descent to Deadrock,Adventure,367
+339130,Morningstar: Descent to Deadrock,Indie,367
+319630,Life is Strange™,Action,1558
+319630,Life is Strange™,Adventure,1558
+342180,Arizona Sunshine,Action,0
+342180,Arizona Sunshine,Adventure,0
+342180,Arizona Sunshine,Indie,0
+331760,Supreme League of Patriots Issue 1: A Patriot Is Born,Adventure,283
+331760,Supreme League of Patriots Issue 1: A Patriot Is Born,Indie,283
+336710,Supreme League of Patriots Issue 2: Patriot Frames,Adventure,525
+336710,Supreme League of Patriots Issue 2: Patriot Frames,Indie,525
+336730,Supreme League of Patriots Issue 3: Ice Cold in Ellis,Adventure,532
+336730,Supreme League of Patriots Issue 3: Ice Cold in Ellis,Indie,532
+344230,Pixel Puzzles 2: Birds,Casual,1669
+344230,Pixel Puzzles 2: Birds,Indie,1669
+344230,Pixel Puzzles 2: Birds,Simulation,1669
+344230,Pixel Puzzles 2: Birds,Strategy,1669
+346900,AdVenture Capitalist,Casual,31
+346900,AdVenture Capitalist,Free to Play,31
+346900,AdVenture Capitalist,Indie,31
+350070,Environmental Station Alpha,Action,153
+350070,Environmental Station Alpha,Adventure,153
+350070,Environmental Station Alpha,Indie,153
+350810,Pixel Puzzles 2: Anime,Action,1428
+350810,Pixel Puzzles 2: Anime,Casual,1428
+350810,Pixel Puzzles 2: Anime,Indie,1428
+350810,Pixel Puzzles 2: Anime,Simulation,1428
+350810,Pixel Puzzles 2: Anime,Strategy,1428
+354140,Five Nights at Freddy's 3,Action,0
+354140,Five Nights at Freddy's 3,Indie,0
+354140,Five Nights at Freddy's 3,Simulation,0
+352400,LEGO® Jurassic World,Action,277
+352400,LEGO® Jurassic World,Adventure,277
+355560,Trigger Runners,Action,463
+355560,Trigger Runners,Adventure,463
+355560,Trigger Runners,Indie,463
+355560,Trigger Runners,Racing,463
+314410,Rampage Knights,Action,550
+314410,Rampage Knights,Adventure,550
+314410,Rampage Knights,Indie,550
+314410,Rampage Knights,RPG,550
+356460,Drive!Drive!Drive!,Action,0
+356460,Drive!Drive!Drive!,Indie,0
+356460,Drive!Drive!Drive!,Racing,0
+356670,Spooky's Jump Scare Mansion,Action,25
+356670,Spooky's Jump Scare Mansion,Adventure,25
+356670,Spooky's Jump Scare Mansion,Free to Play,25
+356670,Spooky's Jump Scare Mansion,Indie,25
+285920,TerraTech,Action,0
+285920,TerraTech,Indie,0
+362290,The Living Dungeon,Adventure,580
+362290,The Living Dungeon,Indie,580
+362290,The Living Dungeon,Simulation,580
+362290,The Living Dungeon,Strategy,580
+363930,Dead Age,Action,2033
+363930,Dead Age,Adventure,2033
+363930,Dead Age,Casual,2033
+363930,Dead Age,Indie,2033
+363930,Dead Age,RPG,2033
+363930,Dead Age,Simulation,2033
+363930,Dead Age,Strategy,2033
+364200,Farabel,Indie,359
+364200,Farabel,RPG,359
+364200,Farabel,Strategy,359
+364390,Downfall,Adventure,297
+364390,Downfall,Indie,297
+274270,NOT A HERO,Action,556
+274270,NOT A HERO,Adventure,556
+274270,NOT A HERO,Indie,556
+365670,Blender,Animation & Modeling,25
+365670,Blender,Design & Illustration,25
+365670,Blender,Video Production,25
+368430,Through the Woods,Adventure,0
+368430,Through the Woods,Indie,0
+369400,Let the Cat In,Casual,81
+369400,Let the Cat In,Free to Play,81
+369400,Let the Cat In,Indie,81
+369400,Let the Cat In,Strategy,81
+292030,The Witcher 3: Wild Hunt,RPG,21758
+373770,LiEat,Indie,0
+373770,LiEat,RPG,0
+375230,"Warhammer 40,000: Eternal Crusade",Action,897
+375230,"Warhammer 40,000: Eternal Crusade",Adventure,897
+375230,"Warhammer 40,000: Eternal Crusade",Free to Play,897
+375230,"Warhammer 40,000: Eternal Crusade",Massively Multiplayer,897
+381210,Dead by Daylight,Action,82323
+8980,Borderlands GOTY,Action,0
+8980,Borderlands GOTY,RPG,0
+729040,Borderlands GOTY Enhanced,Action,0
+729040,Borderlands GOTY Enhanced,RPG,0
+383080,Sakura Clicker,Casual,58
+383080,Sakura Clicker,Free to Play,58
+383080,Sakura Clicker,Indie,58
+383120,Empyrion - Galactic Survival,Adventure,0
+383120,Empyrion - Galactic Survival,Indie,0
+383120,Empyrion - Galactic Survival,Simulation,0
+383120,Empyrion - Galactic Survival,Strategy,0
+383150,Dead Island Definitive Edition,Action,0
+383180,Dead Island Riptide Definitive Edition,Action,0
+380140,The Secret of Tremendous Corporation,Adventure,50
+380140,The Secret of Tremendous Corporation,Casual,50
+380140,The Secret of Tremendous Corporation,Free to Play,50
+380140,The Secret of Tremendous Corporation,Indie,50
+384210,Quadle,Casual,0
+384210,Quadle,Strategy,0
+351970,Tales of Zestiria,RPG,0
+385310,The Land Of Lamia,Adventure,517
+385310,The Land Of Lamia,Indie,517
+290340,Armello,Adventure,1035
+290340,Armello,Indie,1035
+290340,Armello,RPG,1035
+290340,Armello,Strategy,1035
+291550,Brawlhalla,Action,2
+291550,Brawlhalla,Indie,2
+291550,Brawlhalla,Free to Play,2
+387860,the static speaks my name,Adventure,32
+387860,the static speaks my name,Free to Play,32
+387860,the static speaks my name,Indie,32
+387860,the static speaks my name,RPG,32
+388210,Day of the Tentacle Remastered,Adventure,0
+389730,TEKKEN 7,Action,202
+389730,TEKKEN 7,Sports,202
+391630,Necromonads,Action,0
+391720,Layers of Fear (2016),Adventure,0
+391720,Layers of Fear (2016),Indie,0
+395520,Missing Translation,Adventure,131
+395520,Missing Translation,Casual,131
+395520,Missing Translation,Free to Play,131
+395520,Missing Translation,Indie,131
+397870,Arcane Sorcery,Indie,342
+397870,Arcane Sorcery,Strategy,342
+400160,Concrete Jungle,Indie,121
+400160,Concrete Jungle,Strategy,121
+360170,How to Survive 2,Action,0
+360170,How to Survive 2,Adventure,0
+360170,How to Survive 2,RPG,0
+401680,POSTAL Redux,Action,217
+401680,POSTAL Redux,Indie,217
+404200,Wartile,RPG,0
+404200,Wartile,Strategy,0
+405310,LEGO® MARVEL's Avengers,Action,0
+405310,LEGO® MARVEL's Avengers,Adventure,0
+408650,ChromaGun,Action,404
+408650,ChromaGun,Adventure,404
+408650,ChromaGun,Indie,404
+394510,HELLDIVERS™,Action,23
+410710,System Shock: Enhanced Edition,Action,0
+410710,System Shock: Enhanced Edition,Adventure,0
+410710,System Shock: Enhanced Edition,RPG,0
+411080,SHOWTIME 2073,Action,2
+411080,SHOWTIME 2073,Indie,2
+307670,Hard West,Adventure,0
+307670,Hard West,Indie,0
+307670,Hard West,RPG,0
+307670,Hard West,Strategy,0
+417290,Ghost of a Tale,Action,0
+417290,Ghost of a Tale,Adventure,0
+417290,Ghost of a Tale,Indie,0
+417290,Ghost of a Tale,RPG,0
+418180,Tempest,Action,0
+418180,Tempest,Indie,0
+418180,Tempest,RPG,0
+418440,Tick Tock Isle,Adventure,389
+418440,Tick Tock Isle,Casual,389
+418440,Tick Tock Isle,Indie,389
+420880,I Must Kill: Fresh Meat,Adventure,66
+420880,I Must Kill: Fresh Meat,Free to Play,66
+420880,I Must Kill: Fresh Meat,Indie,66
+420880,I Must Kill: Fresh Meat,Early Access,66
+421040,Plantera,Casual,1327
+421040,Plantera,Indie,1327
+421040,Plantera,Simulation,1327
+421120,Samorost 3,Adventure,0
+421120,Samorost 3,Casual,0
+421120,Samorost 3,Indie,0
+422250,ShipLord,Action,533
+422250,ShipLord,Adventure,533
+422250,ShipLord,Casual,533
+422250,ShipLord,Indie,533
+268500,XCOM 2,Strategy,0
+239140,Dying Light,Action,4288
+239140,Dying Light,RPG,4288
+429660,Tales of Berseria,Action,0
+429660,Tales of Berseria,RPG,0
+433170,Die Young,Action,0
+433170,Die Young,Adventure,0
+433170,Die Young,Indie,0
+433170,Die Young,Simulation,0
+973000,Die Young: Prologue,Action,0
+973000,Die Young: Prologue,Adventure,0
+973000,Die Young: Prologue,Indie,0
+433550,DARQ,Action,0
+433550,DARQ,Adventure,0
+433550,DARQ,Indie,0
+434210,It's Spring Again,Casual,219
+434210,It's Spring Again,Indie,219
+436560,Kings and Heroes,RPG,0
+587520,Dungeons of Sundaria,Action,0
+587520,Dungeons of Sundaria,Adventure,0
+587520,Dungeons of Sundaria,Indie,0
+587520,Dungeons of Sundaria,RPG,0
+438640,LEGO® STAR WARS™: The Force Awakens,Action,0
+438640,LEGO® STAR WARS™: The Force Awakens,Adventure,0
+440900,Conan Exiles,Action,0
+440900,Conan Exiles,Adventure,0
+440900,Conan Exiles,Massively Multiplayer,0
+440900,Conan Exiles,RPG,0
+440900,Conan Exiles,Simulation,0
+440900,Conan Exiles,Strategy,0
+442120,Pinball FX3,Simulation,0
+374320,DARK SOULS™ III,Action,2031
+444090,Paladins,Action,3897
+444090,Paladins,Adventure,3897
+444090,Paladins,Massively Multiplayer,3897
+444090,Paladins,Strategy,3897
+444090,Paladins,Free to Play,3897
+444220,Asteroid Bounty Hunter,Action,381
+444220,Asteroid Bounty Hunter,Adventure,381
+444220,Asteroid Bounty Hunter,Casual,381
+444220,Asteroid Bounty Hunter,Indie,381
+444220,Asteroid Bounty Hunter,RPG,381
+446030,Corroded,Action,0
+446030,Corroded,Indie,0
+446030,Corroded,Early Access,0
+446550,Infinite Minigolf,Casual,284
+446550,Infinite Minigolf,Indie,284
+446550,Infinite Minigolf,Sports,284
+447820,Day of Infamy,Action,0
+447820,Day of Infamy,Indie,0
+447820,Day of Infamy,Strategy,0
+449510,The Crow's Eye,Adventure,0
+449510,The Crow's Eye,Indie,0
+275850,No Man's Sky,Action,14843
+275850,No Man's Sky,Adventure,14843
+454330,A Room Beyond,Adventure,0
+454330,A Room Beyond,Indie,0
+455400,PAC-MAN 256,Action,67
+457730,Mushroom Wars 2,Action,0
+457730,Mushroom Wars 2,Indie,0
+457730,Mushroom Wars 2,Strategy,0
+460340,Guards,Adventure,828
+460340,Guards,Indie,828
+460340,Guards,Strategy,828
+461480,Archibald's Adventures,Action,277
+461480,Archibald's Adventures,Adventure,277
+461480,Archibald's Adventures,Casual,277
+461480,Archibald's Adventures,Indie,277
+466130,White Day: A Labyrinth Named School,Action,1081
+466130,White Day: A Labyrinth Named School,Adventure,1081
+466130,White Day: A Labyrinth Named School,Indie,1081
+466980,Can't Drive This,Action,0
+466980,Can't Drive This,Casual,0
+466980,Can't Drive This,Indie,0
+466980,Can't Drive This,Racing,0
+471810,Death Squared,Casual,0
+471810,Death Squared,Indie,0
+472690,SOMBRERO: Spaghetti Western Mayhem,Action,391
+472690,SOMBRERO: Spaghetti Western Mayhem,Indie,391
+474210,BUTCHER,Action,217
+474210,BUTCHER,Adventure,217
+474210,BUTCHER,Indie,217
+475550,Beholder,Adventure,0
+475550,Beholder,Indie,0
+475550,Beholder,Strategy,0
+485510,Nioh: Complete Edition,Action,0
+485510,Nioh: Complete Edition,RPG,0
+487180,The Lords of the Earth Flame,Action,396
+487180,The Lords of the Earth Flame,Adventure,396
+487180,The Lords of the Earth Flame,Indie,396
+487180,The Lords of the Earth Flame,RPG,396
+487180,The Lords of the Earth Flame,Simulation,396
+491950,Orwell,Adventure,0
+491950,Orwell,Indie,0
+491950,Orwell,Simulation,0
+492180,Haimrik,Action,604
+492180,Haimrik,Adventure,604
+492180,Haimrik,Indie,604
+49540,Aliens: Colonial Marines,Action,0
+497710,Holobunnies: Pause Cafe,Action,0
+497710,Holobunnies: Pause Cafe,Adventure,0
+497710,Holobunnies: Pause Cafe,Indie,0
+273350,Evolve Stage 2,Action,329
+273350,Evolve Stage 2,Free to Play,329
+503560,911 Operator,Casual,0
+503560,911 Operator,Indie,0
+503560,911 Operator,Simulation,0
+503560,911 Operator,Strategy,0
+504050,Planet Nomads,Action,0
+504050,Planet Nomads,Adventure,0
+504050,Planet Nomads,Indie,0
+504050,Planet Nomads,Simulation,0
+504920,39 Days to Mars,Adventure,0
+504920,39 Days to Mars,Indie,0
+505400,Diamond Joyce and the Secrets of Crystal Cave,Adventure,277
+505400,Diamond Joyce and the Secrets of Crystal Cave,Casual,277
+505400,Diamond Joyce and the Secrets of Crystal Cave,Indie,277
+505400,Diamond Joyce and the Secrets of Crystal Cave,Strategy,277
+513710,SCUM,Action,0
+513710,SCUM,Adventure,0
+513710,SCUM,Indie,0
+513710,SCUM,Massively Multiplayer,0
+513710,SCUM,Early Access,0
+522210,Serial Cleaner,Action,946
+522210,Serial Cleaner,Indie,946
+523740,TechWars: Global Conflict,Action,0
+523740,TechWars: Global Conflict,Free to Play,0
+523740,TechWars: Global Conflict,Indie,0
+523740,TechWars: Global Conflict,Massively Multiplayer,0
+523740,TechWars: Global Conflict,Strategy,0
+523870,Breaking Fast,Action,9
+523870,Breaking Fast,Casual,9
+523870,Breaking Fast,Indie,9
+523870,Breaking Fast,Racing,9
+526160,The Wild Eight,Action,0
+526160,The Wild Eight,Adventure,0
+526160,The Wild Eight,Indie,0
+526160,The Wild Eight,RPG,0
+526160,The Wild Eight,Simulation,0
+530930,Soulblight,Action,0
+530930,Soulblight,Indie,0
+530930,Soulblight,RPG,0
+532290,Dark Train,Adventure,0
+532290,Dark Train,Indie,0
+537520,SYMMETRY,Adventure,0
+537520,SYMMETRY,Indie,0
+537520,SYMMETRY,Simulation,0
+537520,SYMMETRY,Strategy,0
+447020,Farming Simulator 17,Simulation,0
+548430,Deep Rock Galactic,Action,65
+551770,ECHO,Action,0
+551770,ECHO,Adventure,0
+551770,ECHO,Indie,0
+561770,Just Ignore Them,Adventure,5
+561770,Just Ignore Them,Indie,5
+567030,Under Leaves,Casual,118
+567030,Under Leaves,Indie,118
+438740,Friday the 13th: The Game,Action,0
+573120,Dead In Vinland,Adventure,0
+573120,Dead In Vinland,Indie,0
+573120,Dead In Vinland,RPG,0
+573120,Dead In Vinland,Simulation,0
+573120,Dead In Vinland,Strategy,0
+582660,Black Desert,Action,69
+582660,Black Desert,Adventure,69
+582660,Black Desert,Massively Multiplayer,69
+582660,Black Desert,RPG,69
+582660,Black Desert,Simulation,69
+582660,Black Desert,Strategy,69
+583270,Cosmic Express,Indie,0
+586240,Soul Searching,Indie,0
+588430,Fallout Shelter,RPG,6832
+588430,Fallout Shelter,Simulation,6832
+588430,Fallout Shelter,Free to Play,6832
+590590,Remnants of Naezith,Action,0
+590590,Remnants of Naezith,Adventure,0
+590590,Remnants of Naezith,Casual,0
+590590,Remnants of Naezith,Indie,0
+590590,Remnants of Naezith,Racing,0
+355790,Styx: Shards of Darkness,Action,0
+355790,Styx: Shards of Darkness,Adventure,0
+593960,Lorelai,Adventure,376
+594330,Visage,Action,50
+594330,Visage,Adventure,50
+594330,Visage,Indie,50
+594330,Visage,Simulation,50
+599080,The Blackout Club,Action,0
+599080,The Blackout Club,Indie,0
+599080,The Blackout Club,Simulation,0
+599140,Graveyard Keeper,Adventure,1764
+599140,Graveyard Keeper,Indie,1764
+599140,Graveyard Keeper,RPG,1764
+599140,Graveyard Keeper,Simulation,1764
+332310,LEGO® Worlds,Adventure,0
+618610,Endless Horde,NULL,0
+622170,Offensive Combat: Redux!,Action,0
+228360,Full Throttle Remastered,Adventure,0
+624270,The Painscreek Killings,Adventure,0
+624270,The Painscreek Killings,Indie,0
+640590,The LEGO® NINJAGO® Movie Video Game,Action,0
+424840,Little Nightmares,Adventure,0
+657090,Robothorium,Indie,0
+657090,Robothorium,RPG,0
+657090,Robothorium,Strategy,0
+665300,Stream Avatars,Animation & Modeling,2507
+665300,Stream Avatars,Audio Production,2507
+665300,Stream Avatars,Design & Illustration,2507
+665300,Stream Avatars,Utilities,2507
+665300,Stream Avatars,Video Production,2507
+665300,Stream Avatars,Web Publishing,2507
+672460,Genetic Disaster,Action,0
+672460,Genetic Disaster,Indie,0
+673880,"Warhammer 40,000: Mechanicus",Strategy,78
+674940,Stick Fight: The Game,Action,0
+674940,Stick Fight: The Game,Casual,0
+674940,Stick Fight: The Game,Indie,0
+554620,Life is Strange: Before the Storm,Action,1229
+554620,Life is Strange: Before the Storm,Adventure,1229
+492630,Bear With Me,Adventure,0
+492630,Bear With Me,Indie,0
+711660,CHUCHEL,Adventure,30
+711660,CHUCHEL,Casual,30
+711660,CHUCHEL,Indie,30
+716640,Sigma Theory,Simulation,0
+716640,Sigma Theory,Strategy,0
+718540,Exorcism: Case Zero,Action,0
+718540,Exorcism: Case Zero,Adventure,0
+718540,Exorcism: Case Zero,Indie,0
+718540,Exorcism: Case Zero,RPG,0
+718540,Exorcism: Case Zero,Simulation,0
+723100,Orbital Racer,Indie,0
+723100,Orbital Racer,Racing,0
+723100,Orbital Racer,Simulation,0
+726340,Alchemist's Castle,Action,0
+726340,Alchemist's Castle,Adventure,0
+726340,Alchemist's Castle,Indie,0
+727130,Between the Stars,Action,0
+727130,Between the Stars,Adventure,0
+727130,Between the Stars,Indie,0
+727130,Between the Stars,RPG,0
+727130,Between the Stars,Simulation,0
+727130,Between the Stars,Strategy,0
+733300,My Big Sister,Adventure,0
+733300,My Big Sister,Indie,0
+736260,Baba Is You,Indie,5
+737520,Flynn: Son of Crimson,Action,0
+737520,Flynn: Son of Crimson,Adventure,0
+737520,Flynn: Son of Crimson,Indie,0
+738520,Breathedge,Action,0
+738520,Breathedge,Adventure,0
+738520,Breathedge,Indie,0
+738520,Breathedge,Simulation,0
+647830,LEGO® MARVEL Super Heroes 2,Action,0
+739630,Phasmophobia,Action,465
+739630,Phasmophobia,Indie,465
+739630,Phasmophobia,Early Access,465
+236870,HITMAN™,Action,0
+747470,Doughlings: Arcade,Action,0
+747470,Doughlings: Arcade,Indie,0
+231430,Company of Heroes 2,Strategy,0
+761620,Beholder 2,Adventure,0
+761620,Beholder 2,Indie,0
+761620,Beholder 2,Simulation,0
+761620,Beholder 2,Strategy,0
+368230,Kingdom: Classic,Indie,516
+368230,Kingdom: Classic,Simulation,516
+368230,Kingdom: Classic,Strategy,516
+768520,Red Solstice 2: Survivors,RPG,0
+768520,Red Solstice 2: Survivors,Strategy,0
+773540,Boss Crushers,Action,0
+773540,Boss Crushers,Indie,0
+773540,Boss Crushers,Massively Multiplayer,0
+773540,Boss Crushers,RPG,0
+774561,Rym 9000,Action,0
+774561,Rym 9000,Adventure,0
+774561,Rym 9000,Indie,0
+779290,Stygian: Reign of the Old Ones,Indie,0
+779290,Stygian: Reign of the Old Ones,RPG,0
+792300,The Beast Inside,Action,0
+792300,The Beast Inside,Adventure,0
+792300,The Beast Inside,Indie,0
+793460,112 Operator,Indie,0
+793460,112 Operator,Simulation,0
+793460,112 Operator,Strategy,0
+793600,Bully Beatdown,Action,0
+793600,Bully Beatdown,Indie,0
+464920,Surviving Mars,Simulation,0
+464920,Surviving Mars,Strategy,0
+813540,Scheming Through The Zombie Apocalypse: The Beginning,Adventure,215
+813540,Scheming Through The Zombie Apocalypse: The Beginning,Casual,215
+813540,Scheming Through The Zombie Apocalypse: The Beginning,Indie,215
+813820,Realm Royale Reforged,Action,3204
+813820,Realm Royale Reforged,Free to Play,3204
+813820,Realm Royale Reforged,Early Access,3204
+830820,Jets'n'Guns 2,Action,0
+830820,Jets'n'Guns 2,Indie,0
+818320,LEGO® The Incredibles,Action,0
+818320,LEGO® The Incredibles,Adventure,0
+842100,Daymare: 1998,Action,0
+842100,Daymare: 1998,Adventure,0
+842100,Daymare: 1998,Indie,0
+848350,Katamari Damacy REROLL,Action,0
+848350,Katamari Damacy REROLL,Casual,0
+848450,Subnautica: Below Zero,Adventure,1730
+848450,Subnautica: Below Zero,Indie,1730
+829110,LEGO® DC Super-Villains,Action,0
+829110,LEGO® DC Super-Villains,Adventure,0
+865360,We Were Here Together,Adventure,0
+865360,We Were Here Together,Casual,0
+865360,We Were Here Together,Indie,0
+863550,HITMAN™ 2,Action,422
+865610,Tails Noir,Adventure,0
+865610,Tails Noir,Indie,0
+872670,SCP: 5K - Alpha Testing,Action,0
+872670,SCP: 5K - Alpha Testing,Indie,0
+872670,SCP: 5K - Alpha Testing,Massively Multiplayer,0
+872670,SCP: 5K - Alpha Testing,Strategy,0
+872670,SCP: 5K - Alpha Testing,Early Access,0
+881320,The LEGO® Movie 2 - Videogame,Adventure,0
+908420,We Happy Few - Soundtrack and Digital Goods Bundle,Action,0
+908420,We Happy Few - Soundtrack and Digital Goods Bundle,Adventure,0
+908420,We Happy Few - Soundtrack and Digital Goods Bundle,Indie,0
+910630,Arcade Spirits,Indie,0
+559100,Phantom Doctrine,Action,0
+559100,Phantom Doctrine,RPG,0
+559100,Phantom Doctrine,Strategy,0
+915600,Them and Us,Action,0
+915600,Them and Us,Adventure,0
+915600,Them and Us,Indie,0
+320240,We Happy Few,Action,0
+320240,We Happy Few,Adventure,0
+320240,We Happy Few,Indie,0
+814380,Sekiro™: Shadows Die Twice,Action,0
+814380,Sekiro™: Shadows Die Twice,Adventure,0
+926390,Infected Shelter,Action,804
+926390,Infected Shelter,Adventure,804
+926390,Infected Shelter,Indie,804
+926390,Infected Shelter,RPG,804
+928840,Cybarian: The Time Travelling Warrior,Action,0
+928840,Cybarian: The Time Travelling Warrior,Adventure,0
+928840,Cybarian: The Time Travelling Warrior,Indie,0
+304390,For Honor,Action,0
+640820,Pathfinder: Kingmaker,Adventure,0
+640820,Pathfinder: Kingmaker,RPG,0
+956030,Creaks,Adventure,393
+956030,Creaks,Casual,393
+956030,Creaks,Indie,393
+956060,Mittelborg,Adventure,0
+956060,Mittelborg,Indie,0
+956060,Mittelborg,Simulation,0
+956060,Mittelborg,Strategy,0
+958400,Project CARS 3,Racing,0
+960910,Heavy Rain,Action,26
+960910,Heavy Rain,Adventure,26
+960990,Beyond: Two Souls,Action,0
+960990,Beyond: Two Souls,Adventure,0
+990630,The Last Campfire,Adventure,0
+990630,The Last Campfire,Indie,0
+991170,BarnFinders,Casual,1817
+991170,BarnFinders,Indie,1817
+991170,BarnFinders,Simulation,1817
+992730,Project Downfall,Action,0
+992730,Project Downfall,Adventure,0
+992730,Project Downfall,Indie,0
+489520,Minion Masters,Action,1100
+489520,Minion Masters,Adventure,1100
+489520,Minion Masters,Indie,1100
+489520,Minion Masters,RPG,1100
+489520,Minion Masters,Strategy,1100
+489520,Minion Masters,Free to Play,1100
+1049280,Pilgrims,Adventure,102
+1049280,Pilgrims,Casual,102
+1049280,Pilgrims,Indie,102
+1057240,Crucible,Action,0
+1057240,Crucible,Free to Play,0
+1079830,Cris Tales,Action,0
+1079830,Cris Tales,Adventure,0
+1079830,Cris Tales,RPG,0
+275390,Guacamelee! Super Turbo Championship Edition,Action,0
+275390,Guacamelee! Super Turbo Championship Edition,Adventure,0
+275390,Guacamelee! Super Turbo Championship Edition,Indie,0
+1091500,Cyberpunk 2077,RPG,0
+722560,RAD,Action,0
+1112890,Calico,Casual,0
+1112890,Calico,Indie,0
+1112890,Calico,RPG,0
+1112890,Calico,Simulation,0
+1151250,Horror Story: Hallowseed,Indie,0
+1151250,Horror Story: Hallowseed,Simulation,0
+1164940,Trepang2,Action,0
+1164940,Trepang2,Indie,0
+1172620,Sea of Thieves,Action,7471
+1172620,Sea of Thieves,Adventure,7471
+1180660,Tell Me Why,Adventure,875
+1184050,Gears Tactics,Strategy,0
+1185490,Dark Quest 3,RPG,683
+1185490,Dark Quest 3,Strategy,683
+1185780,Forest Ranger Simulator,Action,486
+1185780,Forest Ranger Simulator,Adventure,486
+1185780,Forest Ranger Simulator,Casual,486
+1185780,Forest Ranger Simulator,Indie,486
+1185780,Forest Ranger Simulator,Simulation,486
+1185780,Forest Ranger Simulator,Early Access,486
+1186040,Worms Rumble,Action,0
+1186040,Worms Rumble,Indie,0
+678960,CODE VEIN,Action,0
+678960,CODE VEIN,RPG,0
+1206060,Happy Game,Adventure,151
+1206060,Happy Game,Casual,151
+1206060,Happy Game,Indie,151
+408410,X-Morph: Defense,Action,0
+408410,X-Morph: Defense,Indie,0
+408410,X-Morph: Defense,Strategy,0
+1245430,Golden Light,Action,0
+1245430,Golden Light,Adventure,0
+1245430,Golden Light,Indie,0
+1222670,The Sims™ 4,Adventure,2510
+1222670,The Sims™ 4,Casual,2510
+1222670,The Sims™ 4,Simulation,2510
+1222670,The Sims™ 4,Free to Play,2510
+1245620,ELDEN RING,Action,198
+1245620,ELDEN RING,RPG,198
+1266820,Ultimate ADOM - Caverns of Chaos,Indie,139
+1266820,Ultimate ADOM - Caverns of Chaos,RPG,139
+1266820,Ultimate ADOM - Caverns of Chaos,Strategy,139
+1270620,Project Chemistry,Indie,0
+1270620,Project Chemistry,Simulation,0
+38400,Fallout,RPG,0
+38410,Fallout 2,RPG,0
+38420,Fallout Tactics,Strategy,0
+1151340,Fallout 76,RPG,13162
+1295920,The Mortuary Assistant,Adventure,319
+1295920,The Mortuary Assistant,Indie,319
+1295920,The Mortuary Assistant,Simulation,319
+1302240,Labyrinthine,Action,0
+1302240,Labyrinthine,Adventure,0
+1302240,Labyrinthine,Indie,0
+1304930,The Outlast Trials,Action,6970
+1304930,The Outlast Trials,Adventure,6970
+1304930,The Outlast Trials,Indie,6970
+406970,The Uncertain: Last Quiet Day,Adventure,0
+406970,The Uncertain: Last Quiet Day,Indie,0
+1360390,Cats and the Other Lives,Adventure,0
+1364100,Lacuna,Adventure,198
+1364100,Lacuna,Indie,198
+1369520,Strangeland,Adventure,0
+1374840,Dark Deity,Adventure,0
+1374840,Dark Deity,Indie,0
+1374840,Dark Deity,RPG,0
+1374840,Dark Deity,Strategy,0
+1401590,Disney Dreamlight Valley,Action,9108
+1401590,Disney Dreamlight Valley,Adventure,9108
+1401590,Disney Dreamlight Valley,Casual,9108
+1401590,Disney Dreamlight Valley,RPG,9108
+1401590,Disney Dreamlight Valley,Simulation,9108
+1405790,John Wick Hex,Action,0
+1405790,John Wick Hex,Strategy,0
+532210,Life is Strange 2,Adventure,1556
+1422410,Into the Pit,Action,0
+1422410,Into the Pit,Indie,0
+1433860,The Amazing American Circus,Adventure,0
+1433860,The Amazing American Circus,Indie,0
+1433860,The Amazing American Circus,RPG,0
+1433860,The Amazing American Circus,Strategy,0
+1436920,Tandem: a tale of shadows,Action,113
+1436920,Tandem: a tale of shadows,Adventure,113
+1436920,Tandem: a tale of shadows,Indie,113
+1442650,White Day VR: Courage Test,Action,0
+1442650,White Day VR: Courage Test,Adventure,0
+1451120,Sunlight,Adventure,0
+1451120,Sunlight,Indie,0
+1139900,Ghostrunner,Action,0
+1325200,Nioh 2 – The Complete Edition,Action,0
+1325200,Nioh 2 – The Complete Edition,RPG,0
+1455840,Dorfromantik,Casual,0
+1455840,Dorfromantik,Indie,0
+1455840,Dorfromantik,Simulation,0
+1455840,Dorfromantik,Strategy,0
+1484720,Dead Estate,Action,0
+1484720,Dead Estate,Indie,0
+534380,Dying Light 2: Reloaded Edition,Action,8181
+534380,Dying Light 2: Reloaded Edition,Adventure,8181
+534380,Dying Light 2: Reloaded Edition,RPG,8181
+1176710,Space Crew: Legendary Edition,Action,0
+1176710,Space Crew: Legendary Edition,Adventure,0
+1176710,Space Crew: Legendary Edition,Indie,0
+1176710,Space Crew: Legendary Edition,Simulation,0
+1176710,Space Crew: Legendary Edition,Strategy,0
+1531490,Harmony's Odyssey,Adventure,0
+1531490,Harmony's Odyssey,Indie,0
+1549180,Propnight,Action,326
+1549180,Propnight,Adventure,326
+1549180,Propnight,Casual,326
+1558930,Little Orpheus,Adventure,0
+1558930,Little Orpheus,Casual,0
+35130,Lara Croft and the Guardian of Light,Action,0
+35130,Lara Croft and the Guardian of Light,Adventure,0
+289690,Lara Croft and the Temple of Osiris,Action,0
+289690,Lara Croft and the Temple of Osiris,Adventure,0
+1580970,Samorost 1,Adventure,0
+1580970,Samorost 1,Casual,0
+1580970,Samorost 1,Indie,0
+1587130,Blood West,Action,0
+1587130,Blood West,RPG,0
+1604030,V Rising,Action,0
+1604030,V Rising,Adventure,0
+1604030,V Rising,Massively Multiplayer,0
+1604030,V Rising,Early Access,0
+1604280,STHELL,Action,97
+1608550,Firegirl: Hack 'n Splash Rescue,Action,0
+979690,The Ascent,Action,0
+979690,The Ascent,Adventure,0
+979690,The Ascent,Indie,0
+979690,The Ascent,RPG,0
+1621690,Core Keeper,Adventure,62
+1621690,Core Keeper,Casual,62
+1621690,Core Keeper,Indie,62
+1621690,Core Keeper,RPG,62
+1621690,Core Keeper,Early Access,62
+1641890,Lust from Beyond: M Edition,Action,0
+1641890,Lust from Beyond: M Edition,Adventure,0
+1641890,Lust from Beyond: M Edition,Indie,0
+1663250,Hyper Gunsport,Action,0
+1663250,Hyper Gunsport,Indie,0
+1663250,Hyper Gunsport,Sports,0
+1667750,Frigato: Shadows of the Caribbean,Action,71
+1667750,Frigato: Shadows of the Caribbean,Adventure,71
+1667750,Frigato: Shadows of the Caribbean,Indie,71
+1667750,Frigato: Shadows of the Caribbean,Strategy,71
+1674640,XEL,Action,0
+1674640,XEL,Indie,0
+1674640,XEL,RPG,0
+1710540,Fall of Porcupine,Adventure,61
+1710540,Fall of Porcupine,Indie,61
+1714250,Pets Hotel,Indie,661
+1714250,Pets Hotel,Simulation,661
+1724770,Castle Of Alchemists,Action,220
+1724770,Castle Of Alchemists,Indie,220
+1724770,Castle Of Alchemists,Strategy,220
+1724770,Castle Of Alchemists,Early Access,220
+1186740,Kyle is Famous,Adventure,0
+1186740,Kyle is Famous,Casual,0
+1186740,Kyle is Famous,Indie,0
+1186740,Kyle is Famous,Simulation,0
+1790360,Heist Kitty: Multiplayer Cat Simulator Game,Action,47
+1790360,Heist Kitty: Multiplayer Cat Simulator Game,Adventure,47
+1790360,Heist Kitty: Multiplayer Cat Simulator Game,Casual,47
+1790360,Heist Kitty: Multiplayer Cat Simulator Game,Indie,47
+1790360,Heist Kitty: Multiplayer Cat Simulator Game,Racing,47
+1790360,Heist Kitty: Multiplayer Cat Simulator Game,RPG,47
+1790360,Heist Kitty: Multiplayer Cat Simulator Game,Simulation,47
+330020,Children of Morta,Action,855
+330020,Children of Morta,Adventure,855
+330020,Children of Morta,Indie,855
+330020,Children of Morta,RPG,855
+1794680,Vampire Survivors,Action,691
+1794680,Vampire Survivors,Casual,691
+1794680,Vampire Survivors,Indie,691
+1794680,Vampire Survivors,RPG,691
+1819450,Koa and the Five Pirates of Mara,Adventure,0
+1819450,Koa and the Five Pirates of Mara,Casual,0
+1819450,Koa and the Five Pirates of Mara,Indie,0
+1822560,Minabo - A walk through life,Casual,170
+1822560,Minabo - A walk through life,Indie,170
+1822560,Minabo - A walk through life,Simulation,170
+1659040,HITMAN 3,Action,1
+1659040,HITMAN 3,Adventure,1
+578080,PUBG: BATTLEGROUNDS,Action,64
+578080,PUBG: BATTLEGROUNDS,Adventure,64
+578080,PUBG: BATTLEGROUNDS,Massively Multiplayer,64
+578080,PUBG: BATTLEGROUNDS,Free to Play,64
+1599340,Lost Ark,Action,0
+1599340,Lost Ark,Adventure,0
+1599340,Lost Ark,Massively Multiplayer,0
+1599340,Lost Ark,RPG,0
+1599340,Lost Ark,Free to Play,0
+1903620,Killer Frequency,Adventure,76
+1903620,Killer Frequency,Indie,76
+1903620,Killer Frequency,Simulation,76
+1926270,Bloodhound,Action,76
+1926270,Bloodhound,Indie,76
+1927720,Monument Valley,Adventure,0
+1927720,Monument Valley,Casual,0
+1927720,Monument Valley,Indie,0
+1927720,Monument Valley,Strategy,0
+1927740,Monument Valley 2,Adventure,0
+1927740,Monument Valley 2,Casual,0
+1927740,Monument Valley 2,Indie,0
+1927740,Monument Valley 2,Strategy,0
+1929610,Demonologist,Action,512
+1929610,Demonologist,Adventure,512
+1929610,Demonologist,Indie,512
+1940340,Darkest Dungeon® II,Indie,120
+1940340,Darkest Dungeon® II,RPG,120
+1940340,Darkest Dungeon® II,Strategy,120
+1959350,Homebody,Adventure,48
+1959350,Homebody,Indie,48
+2014690,Shame Legacy,Action,66
+2014690,Shame Legacy,Adventure,66
+2014690,Shame Legacy,Indie,66
+2023050,Lighthouse Keeper,Adventure,0
+2023050,Lighthouse Keeper,Casual,0
+2023050,Lighthouse Keeper,Indie,0
+2023050,Lighthouse Keeper,RPG,0
+346110,ARK: Survival Evolved,Action,0
+346110,ARK: Survival Evolved,Adventure,0
+346110,ARK: Survival Evolved,Indie,0
+346110,ARK: Survival Evolved,Massively Multiplayer,0
+346110,ARK: Survival Evolved,RPG,0
 407530,ARK: Survival Of The Fittest,Action,0
 407530,ARK: Survival Of The Fittest,Adventure,0
 407530,ARK: Survival Of The Fittest,Indie,0
 407530,ARK: Survival Of The Fittest,Massively Multiplayer,0
 407530,ARK: Survival Of The Fittest,RPG,0
 407530,ARK: Survival Of The Fittest,Strategy,0
-365670,Blender,Animation & Modeling,0
-365670,Blender,Design & Illustration,0
-365670,Blender,Video Production,0
-367500,Dragon's Dogma: Dark Arisen,Action,90
-367500,Dragon's Dogma: Dark Arisen,Adventure,90
-367500,Dragon's Dogma: Dark Arisen,RPG,90
-322330,Don't Starve Together,Action,2634
-322330,Don't Starve Together,Adventure,2634
-322330,Don't Starve Together,Indie,2634
-322330,Don't Starve Together,RPG,2634
-322330,Don't Starve Together,Simulation,2634
-322330,Don't Starve Together,Strategy,2634
-261570,Ori and the Blind Forest,Action,0
-387290,Ori and the Blind Forest: Definitive Edition,Action,37
-291550,Brawlhalla,Action,36
-291550,Brawlhalla,Indie,36
-291550,Brawlhalla,Free to Play,36
-413150,Stardew Valley,Indie,3944
-413150,Stardew Valley,RPG,3944
-413150,Stardew Valley,Simulation,3944
-359550,Tom Clancy's Rainbow Six Siege,Action,10283
-431960,Wallpaper Engine,Casual,125
-431960,Wallpaper Engine,Indie,125
-431960,Wallpaper Engine,Animation & Modeling,125
-431960,Wallpaper Engine,Design & Illustration,125
-431960,Wallpaper Engine,Photo Editing,125
-431960,Wallpaper Engine,Utilities,125
-433340,Slime Rancher,Action,0
-433340,Slime Rancher,Adventure,0
-433340,Slime Rancher,Indie,0
-433340,Slime Rancher,Simulation,0
-444090,Paladins,Action,95
-444090,Paladins,Adventure,95
-444090,Paladins,Massively Multiplayer,95
-444090,Paladins,Strategy,95
-444090,Paladins,Free to Play,95
-504230,Celeste,Action,945
-504230,Celeste,Adventure,945
-504230,Celeste,Indie,945
+2071280,Ravenswatch,Action,346
+2071280,Ravenswatch,Adventure,346
+2071280,Ravenswatch,Early Access,346
+2089500,Arcana of Paradise —The Tower—,Indie,514
+2089500,Arcana of Paradise —The Tower—,Strategy,514
+2094910,Pile Up!,Casual,57
+2094910,Pile Up!,Indie,57
+2094910,Pile Up!,Strategy,57
+2094910,Pile Up!,Early Access,57
+552500,Warhammer: Vermintide 2,Action,0
+552500,Warhammer: Vermintide 2,Indie,0
+2132840,Deliverance & Reign,Indie,59
+2132840,Deliverance & Reign,RPG,59
+2132840,Deliverance & Reign,Strategy,59
+2162020,Strayed Lights,Action,90
+2162020,Strayed Lights,Adventure,90
+2162020,Strayed Lights,Casual,90
+2162020,Strayed Lights,Indie,90
+2163330,Yet Another Zombie Survivors,Action,1054
+2163330,Yet Another Zombie Survivors,Casual,1054
+2163330,Yet Another Zombie Survivors,Indie,1054
+2163330,Yet Another Zombie Survivors,RPG,1054
+2163330,Yet Another Zombie Survivors,Early Access,1054
+2181720,Scarlet Tower,Action,420
+2181720,Scarlet Tower,Casual,420
+2181720,Scarlet Tower,Indie,420
+2181720,Scarlet Tower,RPG,420
+2206270,Vampire Hunters,Action,120
+2206270,Vampire Hunters,Indie,120
+2206270,Vampire Hunters,Early Access,120
+651670,Star Renegades,Action,0
+651670,Star Renegades,Indie,0
+651670,Star Renegades,RPG,0
+651670,Star Renegades,Simulation,0
+651670,Star Renegades,Strategy,0
+2228030,Dr. Fetus' Mean Meat Machine,Action,54
+2228030,Dr. Fetus' Mean Meat Machine,Casual,54
+2228030,Dr. Fetus' Mean Meat Machine,Indie,54
+2230110,Fae Farm,Action,3417
+2230110,Fae Farm,RPG,3417
+2230110,Fae Farm,Simulation,3417
+1294660,Divine Knockout (DKO),Action,44
+418370,Resident Evil 7 Biohazard,Action,2859
+418370,Resident Evil 7 Biohazard,Adventure,2859
+1196590,Resident Evil Village,Action,0
+1236300,Resident Evil Re:Verse,Action,0
+1712840,Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,Action,0
+1712840,Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,Adventure,0
+1712840,Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,RPG,0
+1294810,Redfall,Action,684
+1294810,Redfall,Adventure,684
+2419900,Apartament 1406: Horror,Action,0
+2419900,Apartament 1406: Horror,Adventure,0
+2419900,Apartament 1406: Horror,Casual,0
+2419900,Apartament 1406: Horror,Indie,0
+1272080,PAYDAY 3,Action,3147
+1272080,PAYDAY 3,Adventure,3147
+1272080,PAYDAY 3,RPG,3147
+552990,World of Warships,Action,0
+552990,World of Warships,Massively Multiplayer,0
+552990,World of Warships,Simulation,0
+552990,World of Warships,Free to Play,0
+730,Counter-Strike 2,Action,2
+730,Counter-Strike 2,Free to Play,2
+730,Counter-Strike 2,Action,8
+730,Counter-Strike 2,Free to Play,8
+755790,Ring of Elysium,Action,72
+755790,Ring of Elysium,Free to Play,72
+755790,Ring of Elysium,Massively Multiplayer,72
+578080,PUBG: BATTLEGROUNDS,Action,55
+578080,PUBG: BATTLEGROUNDS,Adventure,55
+578080,PUBG: BATTLEGROUNDS,Massively Multiplayer,55
+578080,PUBG: BATTLEGROUNDS,Free to Play,55
+578080,PUBG: BATTLEGROUNDS,Action,12994
+578080,PUBG: BATTLEGROUNDS,Adventure,12994
+578080,PUBG: BATTLEGROUNDS,Massively Multiplayer,12994
+578080,PUBG: BATTLEGROUNDS,Free to Play,12994
+730,Counter-Strike 2,Action,557
+730,Counter-Strike 2,Free to Play,557
+730,Counter-Strike 2,Action,134831
+730,Counter-Strike 2,Free to Play,134831
+578080,PUBG: BATTLEGROUNDS,Action,134771
+578080,PUBG: BATTLEGROUNDS,Adventure,134771
+578080,PUBG: BATTLEGROUNDS,Massively Multiplayer,134771
+578080,PUBG: BATTLEGROUNDS,Free to Play,134771
+227940,Heroes & Generals,Action,0
+227940,Heroes & Generals,Free to Play,0
+227940,Heroes & Generals,Indie,0
+227940,Heroes & Generals,Massively Multiplayer,0
+227940,Heroes & Generals,Strategy,0
+730,Counter-Strike 2,Action,56742
+730,Counter-Strike 2,Free to Play,56742
+555570,Infestation: The New Z,Action,74
+555570,Infestation: The New Z,Indie,74
+555570,Infestation: The New Z,Massively Multiplayer,74
+555570,Infestation: The New Z,RPG,74
+555570,Infestation: The New Z,Free to Play,74
+466240,Deceit,Action,1
+466240,Deceit,Indie,1
+466240,Deceit,Free to Play,1
+806240,RollingBall,Indie,0
+105600,Terraria,Action,123
+105600,Terraria,Adventure,123
+105600,Terraria,Indie,123
+105600,Terraria,RPG,123
+230410,Warframe,Action,23
+230410,Warframe,RPG,23
+230410,Warframe,Free to Play,23
+236390,War Thunder,Action,1
+236390,War Thunder,Massively Multiplayer,1
+236390,War Thunder,Simulation,1
+236390,War Thunder,Free to Play,1
+346110,ARK: Survival Evolved,Action,26230
+346110,ARK: Survival Evolved,Adventure,26230
+346110,ARK: Survival Evolved,Indie,26230
+346110,ARK: Survival Evolved,Massively Multiplayer,26230
+346110,ARK: Survival Evolved,RPG,26230
+407530,ARK: Survival Of The Fittest,Action,0
+407530,ARK: Survival Of The Fittest,Adventure,0
+407530,ARK: Survival Of The Fittest,Indie,0
+407530,ARK: Survival Of The Fittest,Massively Multiplayer,0
+407530,ARK: Survival Of The Fittest,RPG,0
+407530,ARK: Survival Of The Fittest,Strategy,0
+375950,Viridi,Casual,0
+375950,Viridi,Free to Play,0
+375950,Viridi,Indie,0
+375950,Viridi,Simulation,0
+386360,SMITE,Action,5
+386360,SMITE,Adventure,5
+386360,SMITE,Casual,5
+386360,SMITE,Massively Multiplayer,5
+386360,SMITE,RPG,5
+386360,SMITE,Strategy,5
+386360,SMITE,Free to Play,5
+431960,Wallpaper Engine,Casual,149
+431960,Wallpaper Engine,Indie,149
+431960,Wallpaper Engine,Animation & Modeling,149
+431960,Wallpaper Engine,Design & Illustration,149
+431960,Wallpaper Engine,Photo Editing,149
+431960,Wallpaper Engine,Utilities,149
+468920,Ultimate Fishing Simulator,Casual,379
+468920,Ultimate Fishing Simulator,Simulation,379
+468920,Ultimate Fishing Simulator,Sports,379
 319630,Life is Strange™,Action,0
 319630,Life is Strange™,Adventure,0
-593280,Cat Quest,Action,204
-593280,Cat Quest,Adventure,204
-593280,Cat Quest,Casual,204
-593280,Cat Quest,Indie,204
-593280,Cat Quest,RPG,204
-632360,Risk of Rain 2,Action,883
-632360,Risk of Rain 2,Indie,883
-204300,Awesomenauts,Action,18
-204300,Awesomenauts,Free to Play,18
-204300,Awesomenauts,Indie,18
-204300,Awesomenauts,Strategy,18
-736260,Baba Is You,Indie,205
-858210,Nova Drift,Action,1265
-858210,Nova Drift,Indie,1265
-858210,Nova Drift,Early Access,1265
-714010,Aimlabs,Action,5560
-714010,Aimlabs,Adventure,5560
-714010,Aimlabs,Casual,5560
-714010,Aimlabs,Indie,5560
-714010,Aimlabs,Simulation,5560
-714010,Aimlabs,Free to Play,5560
-914710,Cat Quest II,Action,286
-914710,Cat Quest II,Adventure,286
-914710,Cat Quest II,Indie,286
-914710,Cat Quest II,RPG,286
-962580,Summer in Mara,Adventure,8
-962580,Summer in Mara,Casual,8
-962580,Summer in Mara,Simulation,8
-1113000,Persona 4 Golden,RPG,829
-1172470,Apex Legends,Action,157
-1172470,Apex Legends,Adventure,157
-1172470,Apex Legends,Free to Play,157
-1172620,Sea of Thieves,Action,1010
-1172620,Sea of Thieves,Adventure,1010
-1145360,Hades,Action,2048
-1145360,Hades,Indie,2048
-1145360,Hades,RPG,2048
-582010,Monster Hunter: World,Action,305
-1268110,ISEKAI QUEST,Adventure,284
-1268110,ISEKAI QUEST,Casual,284
-1268110,ISEKAI QUEST,Indie,284
-1268110,ISEKAI QUEST,RPG,284
-1290000,PowerWash Simulator,Casual,608
-1290000,PowerWash Simulator,Indie,608
-1290000,PowerWash Simulator,Simulation,608
-441380,PAC-MAN™ CHAMPIONSHIP EDITION 2,Casual,0
-1304930,The Outlast Trials,Action,1221
-1304930,The Outlast Trials,Adventure,1221
-1304930,The Outlast Trials,Indie,1221
-1326470,Sons Of The Forest,Action,837
-1326470,Sons Of The Forest,Adventure,837
-1326470,Sons Of The Forest,Indie,837
-1326470,Sons Of The Forest,Simulation,837
-1587710,Fossil Corner,Casual,298
-1587710,Fossil Corner,Indie,298
-1587710,Fossil Corner,Simulation,298
-1607680,Bread & Fred,Action,30
-1607680,Bread & Fred,Adventure,30
-1607680,Bread & Fred,Casual,30
-1607680,Bread & Fred,Indie,30
-1687950,Persona 5 Royal,RPG,76
-1714040,Super Auto Pets,Free to Play,1633
-1714040,Super Auto Pets,Strategy,1633
-1240440,Halo Infinite,Action,0
-1240440,Halo Infinite,Free to Play,0
-1850570,DEATH STRANDING DIRECTOR'S CUT,Action,2416
-1850570,DEATH STRANDING DIRECTOR'S CUT,Adventure,2416
-1446780,MONSTER HUNTER RISE,Action,5914
-1961460,Project Playtime,Action,0
-1961460,Project Playtime,Indie,0
-1961460,Project Playtime,Free to Play,0
-1961460,Project Playtime,Early Access,0
-1966720,Lethal Company,Action,716
-1966720,Lethal Company,Adventure,716
-1966720,Lethal Company,Indie,716
-1966720,Lethal Company,Early Access,716
-1987080,Inside the Backrooms,Adventure,482
-1987080,Inside the Backrooms,Indie,482
-1987080,Inside the Backrooms,Early Access,482
-2073850,THE FINALS,Action,5954
-2073850,THE FINALS,Free to Play,5954
-1938090,Call of Duty®,Action,1792
-1364780,Street Fighter™ 6,Action,1168
-1364780,Street Fighter™ 6,Adventure,1168
-4000,Garry's Mod,Casual,2488
-4000,Garry's Mod,Indie,2488
-4000,Garry's Mod,Simulation,2488
-11020,TrackMania Nations Forever,Racing,49
-218230,PlanetSide 2,Action,67
-218230,PlanetSide 2,Massively Multiplayer,67
-218230,PlanetSide 2,Free to Play,67
-1083500,PlanetSide 2 - Test,Action,0
-1083500,PlanetSide 2 - Test,Free to Play,0
-1083500,PlanetSide 2 - Test,Massively Multiplayer,0
-230410,Warframe,Action,155
-230410,Warframe,RPG,155
-230410,Warframe,Free to Play,155
-236390,War Thunder,Action,14
-236390,War Thunder,Massively Multiplayer,14
-236390,War Thunder,Simulation,14
-236390,War Thunder,Free to Play,14
-209870,Blacklight: Retribution,Action,0
-209870,Blacklight: Retribution,Free to Play,0
-252950,Rocket League,Action,38021
-252950,Rocket League,Indie,38021
-252950,Rocket League,Racing,38021
-252950,Rocket League,Sports,38021
-273110,Counter-Strike Nexon: Studio,Action,5
-273110,Counter-Strike Nexon: Studio,Casual,5
-273110,Counter-Strike Nexon: Studio,Massively Multiplayer,5
-273110,Counter-Strike Nexon: Studio,Free to Play,5
-286940,S.K.I.L.L. - Special Force 2,Action,351
-286940,S.K.I.L.L. - Special Force 2,Adventure,351
-286940,S.K.I.L.L. - Special Force 2,Free to Play,351
-286940,S.K.I.L.L. - Special Force 2,Sports,351
-286940,S.K.I.L.L. - Special Force 2,Strategy,351
-245490,Trials Fusion,Racing,75
-291480,Warface: Clutch,Action,270
-291480,Warface: Clutch,Massively Multiplayer,270
-291480,Warface: Clutch,Free to Play,270
-730,Counter-Strike 2,Action,110345
-730,Counter-Strike 2,Free to Play,110345
-333930,Dirty Bomb,Action,15
-333930,Dirty Bomb,Free to Play,15
-386360,SMITE,Action,125
-386360,SMITE,Adventure,125
-386360,SMITE,Casual,125
-386360,SMITE,Massively Multiplayer,125
-386360,SMITE,RPG,125
-386360,SMITE,Strategy,125
-386360,SMITE,Free to Play,125
-359550,Tom Clancy's Rainbow Six Siege,Action,16140
-444090,Paladins,Action,9959
-444090,Paladins,Adventure,9959
-444090,Paladins,Massively Multiplayer,9959
-444090,Paladins,Strategy,9959
-444090,Paladins,Free to Play,9959
-550650,Black Squad,Action,102
-550650,Black Squad,Free to Play,102
+289070,Sid Meier's Civilization VI,Strategy,2805
+292030,The Witcher 3: Wild Hunt,RPG,3777
 552990,World of Warships,Action,0
 552990,World of Warships,Massively Multiplayer,0
 552990,World of Warships,Simulation,0
 552990,World of Warships,Free to Play,0
-813820,Realm Royale Reforged,Action,0
-813820,Realm Royale Reforged,Free to Play,0
-813820,Realm Royale Reforged,Early Access,0
-714010,Aimlabs,Action,802
-714010,Aimlabs,Adventure,802
-714010,Aimlabs,Casual,802
-714010,Aimlabs,Indie,802
-714010,Aimlabs,Simulation,802
-714010,Aimlabs,Free to Play,802
-945360,Among Us,Casual,352
-1172470,Apex Legends,Action,591
-1172470,Apex Legends,Adventure,591
-1172470,Apex Legends,Free to Play,591
-1172620,Sea of Thieves,Action,985
-1172620,Sea of Thieves,Adventure,985
-1304930,The Outlast Trials,Action,238
-1304930,The Outlast Trials,Adventure,238
-1304930,The Outlast Trials,Indie,238
-1326470,Sons Of The Forest,Action,817
-1326470,Sons Of The Forest,Adventure,817
-1326470,Sons Of The Forest,Indie,817
-1326470,Sons Of The Forest,Simulation,817
-680420,OUTRIDERS,Action,2162
-680420,OUTRIDERS,Adventure,2162
-680420,OUTRIDERS,RPG,2162
+563560,Alien Swarm: Reactive Drop,Action,0
+563560,Alien Swarm: Reactive Drop,Free to Play,0
+578080,PUBG: BATTLEGROUNDS,Action,38009
+578080,PUBG: BATTLEGROUNDS,Adventure,38009
+578080,PUBG: BATTLEGROUNDS,Massively Multiplayer,38009
+578080,PUBG: BATTLEGROUNDS,Free to Play,38009
+588430,Fallout Shelter,RPG,0
+588430,Fallout Shelter,Simulation,0
+588430,Fallout Shelter,Free to Play,0
+460930,Tom Clancy's Ghost Recon® Wildlands,Action,0
+460930,Tom Clancy's Ghost Recon® Wildlands,Adventure,0
+646570,Slay the Spire,Indie,10299
+646570,Slay the Spire,Strategy,10299
+648350,Jurassic World Evolution,Simulation,62
+648350,Jurassic World Evolution,Strategy,62
+648390,Marie's Room,Adventure,0
+648390,Marie's Room,Casual,0
+648390,Marie's Room,Free to Play,0
+648390,Marie's Room,Indie,0
+690510,Immortal Soul: Black Survival,Free to Play,15056
+690510,Immortal Soul: Black Survival,Indie,15056
+690510,Immortal Soul: Black Survival,Strategy,15056
+730,Counter-Strike 2,Action,0
+730,Counter-Strike 2,Free to Play,0
+781440,"OH MY GOD, LOOK AT THIS KNIGHT",Action,0
+781440,"OH MY GOD, LOOK AT THIS KNIGHT",Adventure,0
+781440,"OH MY GOD, LOOK AT THIS KNIGHT",Indie,0
+781440,"OH MY GOD, LOOK AT THIS KNIGHT",Free to Play,0
+838350,太吾绘卷 The Scroll Of Taiwu,Adventure,1735
+838350,太吾绘卷 The Scroll Of Taiwu,Casual,1735
+838350,太吾绘卷 The Scroll Of Taiwu,Indie,1735
+838350,太吾绘卷 The Scroll Of Taiwu,RPG,1735
+838350,太吾绘卷 The Scroll Of Taiwu,Strategy,1735
+838350,太吾绘卷 The Scroll Of Taiwu,Early Access,1735
+845070,The Awesome Adventures of Captain Spirit,Adventure,0
+845070,The Awesome Adventures of Captain Spirit,Free to Play,0
+858810,Dawn of Man,Indie,618
+858810,Dawn of Man,Simulation,618
+858810,Dawn of Man,Strategy,618
+638970,Yakuza 0,Action,135
+638970,Yakuza 0,Adventure,135
+638970,Yakuza 0,RPG,135
+918570,Century: Age of Ashes,Action,0
+918570,Century: Age of Ashes,Indie,0
+918570,Century: Age of Ashes,Racing,0
+918570,Century: Age of Ashes,Free to Play,0
+937170,Otaku's Adventure,Adventure,381
+937170,Otaku's Adventure,Indie,381
+937170,Otaku's Adventure,RPG,381
+952860,河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon),Adventure,2822
+952860,河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon),RPG,2822
+952860,河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon),Strategy,2822
+958260,DEAD OR ALIVE Xtreme Venus Vacation,Sports,34
+958260,DEAD OR ALIVE Xtreme Venus Vacation,Free to Play,34
+992310,Tails Noir: Prologue,Adventure,0
+992310,Tails Noir: Prologue,Indie,0
+992310,Tails Noir: Prologue,RPG,0
+992310,Tails Noir: Prologue,Free to Play,0
+998940,隐形守护者 The Invisible Guardian,Adventure,779
+998940,隐形守护者 The Invisible Guardian,Indie,779
+998940,隐形守护者 The Invisible Guardian,RPG,779
+1046930,Dota Underlords,Casual,723
+1046930,Dota Underlords,Free to Play,723
+1046930,Dota Underlords,Strategy,723
+1049590,Eternal Return,Indie,54
+1049590,Eternal Return,Strategy,54
+1049590,Eternal Return,Free to Play,54
+761890,Albion Online,Massively Multiplayer,41
+761890,Albion Online,RPG,41
+761890,Albion Online,Free to Play,41
+1094520,Sands of Salzaar,Adventure,4457
+1094520,Sands of Salzaar,Indie,4457
+1094520,Sands of Salzaar,RPG,4457
+1094520,Sands of Salzaar,Strategy,4457
+1097150,Fall Guys,Action,243
+1097150,Fall Guys,Casual,243
+1097150,Fall Guys,Indie,243
+1097150,Fall Guys,Massively Multiplayer,243
+1097150,Fall Guys,Sports,243
+1145360,Hades,Action,2475
+1145360,Hades,Indie,2475
+1145360,Hades,RPG,2475
+1222670,The Sims™ 4,Adventure,178
+1222670,The Sims™ 4,Casual,178
+1222670,The Sims™ 4,Simulation,178
+1222670,The Sims™ 4,Free to Play,178
+582010,Monster Hunter: World,Action,151
+1254120,Bless Unleashed,Action,17
+1254120,Bless Unleashed,Free to Play,17
+1254120,Bless Unleashed,Massively Multiplayer,17
+1254120,Bless Unleashed,RPG,17
+1468810,鬼谷八荒 Tale of Immortal,Action,10712
+1468810,鬼谷八荒 Tale of Immortal,Adventure,10712
+1468810,鬼谷八荒 Tale of Immortal,Indie,10712
+1468810,鬼谷八荒 Tale of Immortal,RPG,10712
+1468810,鬼谷八荒 Tale of Immortal,Simulation,10712
+976310,Mortal Kombat 11,Action,165
+1520470,Soul Dossier,Action,34
+1520470,Soul Dossier,Adventure,34
+1520470,Soul Dossier,Massively Multiplayer,34
+1520470,Soul Dossier,RPG,34
+1520470,Soul Dossier,Strategy,34
+1520470,Soul Dossier,Free to Play,34
+477160,Human Fall Flat,Adventure,56
+477160,Human Fall Flat,Casual,56
+477160,Human Fall Flat,Indie,56
+477160,Human Fall Flat,Simulation,56
+1623660,MIR4,Action,147
+1623660,MIR4,Adventure,147
+1623660,MIR4,Free to Play,147
+1623660,MIR4,Massively Multiplayer,147
+1623660,MIR4,RPG,147
+233860,Kenshi,Action,6799
+233860,Kenshi,Indie,6799
+233860,Kenshi,RPG,6799
+233860,Kenshi,Simulation,6799
+233860,Kenshi,Strategy,6799
+1675900,Warlander,Action,0
+1675900,Warlander,Massively Multiplayer,0
+1675900,Warlander,Free to Play,0
 1240440,Halo Infinite,Action,0
 1240440,Halo Infinite,Free to Play,0
-1966720,Lethal Company,Action,170
-1966720,Lethal Company,Adventure,170
-1966720,Lethal Company,Indie,170
-1966720,Lethal Company,Early Access,170
-1987080,Inside the Backrooms,Adventure,489
-1987080,Inside the Backrooms,Indie,489
-1987080,Inside the Backrooms,Early Access,489
-2073850,THE FINALS,Action,7361
-2073850,THE FINALS,Free to Play,7361
-1938090,Call of Duty®,Action,3105
-4000,Garry's Mod,Casual,2488
-4000,Garry's Mod,Indie,2488
-4000,Garry's Mod,Simulation,2488
-11020,TrackMania Nations Forever,Racing,49
-218230,PlanetSide 2,Action,67
-218230,PlanetSide 2,Massively Multiplayer,67
-218230,PlanetSide 2,Free to Play,67
-1083500,PlanetSide 2 - Test,Action,0
-1083500,PlanetSide 2 - Test,Free to Play,0
-1083500,PlanetSide 2 - Test,Massively Multiplayer,0
-230410,Warframe,Action,155
-230410,Warframe,RPG,155
-230410,Warframe,Free to Play,155
-236390,War Thunder,Action,14
-236390,War Thunder,Massively Multiplayer,14
-236390,War Thunder,Simulation,14
-236390,War Thunder,Free to Play,14
-209870,Blacklight: Retribution,Action,0
-209870,Blacklight: Retribution,Free to Play,0
-252950,Rocket League,Action,38021
-252950,Rocket League,Indie,38021
-252950,Rocket League,Racing,38021
-252950,Rocket League,Sports,38021
-273110,Counter-Strike Nexon: Studio,Action,5
-273110,Counter-Strike Nexon: Studio,Casual,5
-273110,Counter-Strike Nexon: Studio,Massively Multiplayer,5
-273110,Counter-Strike Nexon: Studio,Free to Play,5
-286940,S.K.I.L.L. - Special Force 2,Action,351
-286940,S.K.I.L.L. - Special Force 2,Adventure,351
-286940,S.K.I.L.L. - Special Force 2,Free to Play,351
-286940,S.K.I.L.L. - Special Force 2,Sports,351
-286940,S.K.I.L.L. - Special Force 2,Strategy,351
-245490,Trials Fusion,Racing,75
-291480,Warface: Clutch,Action,270
-291480,Warface: Clutch,Massively Multiplayer,270
-291480,Warface: Clutch,Free to Play,270
-730,Counter-Strike 2,Action,110345
-730,Counter-Strike 2,Free to Play,110345
-333930,Dirty Bomb,Action,15
-333930,Dirty Bomb,Free to Play,15
-386360,SMITE,Action,125
-386360,SMITE,Adventure,125
-386360,SMITE,Casual,125
-386360,SMITE,Massively Multiplayer,125
-386360,SMITE,RPG,125
-386360,SMITE,Strategy,125
-386360,SMITE,Free to Play,125
-359550,Tom Clancy's Rainbow Six Siege,Action,16140
-444090,Paladins,Action,9959
-444090,Paladins,Adventure,9959
-444090,Paladins,Massively Multiplayer,9959
-444090,Paladins,Strategy,9959
-444090,Paladins,Free to Play,9959
-550650,Black Squad,Action,102
-550650,Black Squad,Free to Play,102
-552990,World of Warships,Action,0
-552990,World of Warships,Massively Multiplayer,0
-552990,World of Warships,Simulation,0
-552990,World of Warships,Free to Play,0
-813820,Realm Royale Reforged,Action,0
-813820,Realm Royale Reforged,Free to Play,0
-813820,Realm Royale Reforged,Early Access,0
-714010,Aimlabs,Action,802
-714010,Aimlabs,Adventure,802
-714010,Aimlabs,Casual,802
-714010,Aimlabs,Indie,802
-714010,Aimlabs,Simulation,802
-714010,Aimlabs,Free to Play,802
-945360,Among Us,Casual,352
-1172470,Apex Legends,Action,591
-1172470,Apex Legends,Adventure,591
-1172470,Apex Legends,Free to Play,591
-1172620,Sea of Thieves,Action,985
-1172620,Sea of Thieves,Adventure,985
-1304930,The Outlast Trials,Action,238
-1304930,The Outlast Trials,Adventure,238
-1304930,The Outlast Trials,Indie,238
-1326470,Sons Of The Forest,Action,817
-1326470,Sons Of The Forest,Adventure,817
-1326470,Sons Of The Forest,Indie,817
-1326470,Sons Of The Forest,Simulation,817
-680420,OUTRIDERS,Action,2162
-680420,OUTRIDERS,Adventure,2162
-680420,OUTRIDERS,RPG,2162
-1240440,Halo Infinite,Action,0
-1240440,Halo Infinite,Free to Play,0
-1966720,Lethal Company,Action,170
-1966720,Lethal Company,Adventure,170
-1966720,Lethal Company,Indie,170
-1966720,Lethal Company,Early Access,170
-1987080,Inside the Backrooms,Adventure,489
-1987080,Inside the Backrooms,Indie,489
-1987080,Inside the Backrooms,Early Access,489
-2073850,THE FINALS,Action,7361
-2073850,THE FINALS,Free to Play,7361
-1938090,Call of Duty®,Action,3105
+1832640,Mirror 2: Project X,Adventure,56
+1832640,Mirror 2: Project X,Indie,56
+1832640,Mirror 2: Project X,RPG,56
+1832640,Mirror 2: Project X,Early Access,56
+1868140,DAVE THE DIVER,Adventure,895
+1868140,DAVE THE DIVER,Casual,895
+1868140,DAVE THE DIVER,RPG,895
+1868140,DAVE THE DIVER,Simulation,895
+2061440,Oxygen: First Breath,Indie,0
+2061440,Oxygen: First Breath,Simulation,0
+2061440,Oxygen: First Breath,Strategy,0
+2061440,Oxygen: First Breath,Free to Play,0

@@ -63,12 +63,15 @@ def extract_genre(html: str) -> str:
     soup = BeautifulSoup(html, "lxml")
     genres = soup.find(
         "span", {"data-panel": '{"flow-children":"row"}'})
+    # If there are no genres associated with the game
+    if not genres:
+        return "NULL"
     return genres.text.split(", ")
 
 
 def valid_steam_id(steam_id: str) -> bool:
     """
-    Given a string for steam id, check if it's valid. Return True if it is.
+    Given a string for steam id, check if it's valid. Return True if it is, otherwise false.
     """
     url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={environ['STEAM_API_KEY']}&steamid={steam_id}&format=json"
     try:
@@ -80,13 +83,20 @@ def valid_steam_id(steam_id: str) -> bool:
     except HTTPError as exc:
         raise HTTPError("url is invalid.") from exc
 
+    # Invalid steam id returns code 400 and 404
     if response.status_code in (400, 404):
         return False
-    
+
     info = response.json()
     if not info["response"]:
         return False
+
+    # Steam id with 0 games
+    if info["response"]["game_count"] == 0:
+        return False
+
     return True
+
 
 def generate_random_id() -> str:
     """
@@ -113,9 +123,10 @@ def generate_valid_steam_ids() -> None:
             steam_ids.append(str(random_id))
             counter += 1
             print(f"Valid Id number: {counter} found...")
-    
+
     file = open("steam_ids.txt", "w")
-    file.writelines(steam_ids)
+    for id in steam_ids:
+        file.write(id + "\n")
     file.close()
 
 
