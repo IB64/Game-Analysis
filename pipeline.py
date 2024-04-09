@@ -13,6 +13,7 @@ def extract() -> list:
     steam_ids = ex.get_steam_ids()
     games_data = []
     for index, person in enumerate(steam_ids):
+        print(person)
         owned_games = ex.get_owned_games(person)
         games = ex.get_games_info(owned_games)
     
