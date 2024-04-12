@@ -34,7 +34,7 @@ def get_valid_random_ids(steam_ids: str) -> list:
     return result
 
 
-def valid_steam_id(steam_id: str) -> bool:
+def valid_steam_id(current_steam_id_list: list, steam_id: str) -> bool:
     """
     Given a string for steam id, check if it's valid. Return True if it is, otherwise false.
     """
@@ -59,6 +59,9 @@ def valid_steam_id(steam_id: str) -> bool:
     # Steam id with 0 games
     if info["response"]["game_count"] == 0:
         return False
+    
+    if steam_id in current_steam_id_list:
+        return False
 
     return True
 
@@ -80,10 +83,20 @@ def convert_list_to_string(steam_ids: list) -> str:
     return string
 
 
+def get_steam_ids() -> list:
+    """
+    Returns all the current steam ids that we have collected so far.
+    """
+    with open("steam_ids.txt", "r") as file:
+        content = file.read().splitlines()
+    return content
+
+
 def generate_valid_steam_ids(number_to_generate: int) -> None:
     """
     Create a list of 1000 valid steam ids then export it to a text file.
     """
+    all_steam_ids = get_steam_ids()
     start = perf_counter()
     counter = 0
     steam_ids = []
@@ -94,16 +107,16 @@ def generate_valid_steam_ids(number_to_generate: int) -> None:
             valid_ids = get_valid_random_ids(random_ids)
 
         for id in valid_ids:
-            if valid_steam_id(id):
+            if valid_steam_id(all_steam_ids, id):
                 steam_ids.append(str(id))
                 counter += 1
                 print(f"ID: {id} is valid. {counter}/{number_to_generate} found...")
+                if counter == 5:
+                    break
 
-    file = open("steam_ids.txt", "w")
+    file = open("steam_ids.txt", "a")
     for id in steam_ids:
         file.write(id + "\n")
     file.close()
     print("Id generation done! Time Elapsed: ", perf_counter() - start)
 
-if __name__ == "__main__":
-    generate_valid_steam_ids(100)

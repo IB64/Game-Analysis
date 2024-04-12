@@ -8,17 +8,11 @@ import extract as ex
 import transform as tr
 
 
-def get_steam_ids() -> list:
-    with open("steam_ids.txt", "r") as file:
-        content = file.read().splitlines()
-    return content
-
-
 def extract() -> list:
     """
     Extracts data from a list of steam ids.
     """
-    steam_ids = get_steam_ids()
+    steam_ids = ge.get_steam_ids()
     number_of_ids = len(steam_ids)
     print(f"Starting Extraction... Extracting from {number_of_ids} ids...")
     games_data = []
