@@ -37,7 +37,7 @@ FROM `chrome-folio-405910.Steam_Game_Analysis.V2_Game_Data_Extraction`
 group by Game_Name, Game_Genres
 order by 3 desc
 
-#Segment users based on playtime behavior considering only distinct games.
+#distribution of games based on playtime considering only distinct games.
 SELECT
 CASE
 WHEN Playtime_Minutes < 600 THEN 'Casual'
