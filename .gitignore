@@ -2,3 +2,4 @@ venv
 .env
 steam_ids.txt
 __pycache__
+*.json
