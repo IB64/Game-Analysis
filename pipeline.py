@@ -30,6 +30,7 @@ def extract() -> list:
                 genres[game["id"]] = game_genres
 
             games_data.append({
+                'User_Id': person,
                 'Game_Id': game['id'],
                 'Game_Name': game['name'],
                 'Game_Genres': game_genres,
