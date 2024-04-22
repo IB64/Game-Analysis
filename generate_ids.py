@@ -102,17 +102,20 @@ def generate_valid_steam_ids(number_to_generate: int) -> None:
     steam_ids = []
     while counter != number_to_generate:
         random_ids = generate_random_ids()
-        valid_ids = get_valid_random_ids(random_ids)
-        while not valid_ids:
+        try:
             valid_ids = get_valid_random_ids(random_ids)
+            while not valid_ids:
+                valid_ids = get_valid_random_ids(random_ids)
 
-        for id in valid_ids:
-            if valid_steam_id(all_steam_ids, id):
-                steam_ids.append(str(id))
-                counter += 1
-                print(f"ID: {id} is valid. {counter}/{number_to_generate} found...")
-                if counter == 5:
-                    break
+            for id in valid_ids:
+                if valid_steam_id(all_steam_ids, id):
+                    steam_ids.append(str(id))
+                    counter += 1
+                    print(f"ID: {id} is valid. {counter}/{number_to_generate} found...")
+                    if counter == number_to_generate:
+                        break
+        except Exception as err:
+            print(f"Error occured: {err}")
 
     file = open("steam_ids.txt", "a")
     for id in steam_ids:

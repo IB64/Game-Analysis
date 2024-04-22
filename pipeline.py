@@ -1,3 +1,4 @@
+import json
 from time import perf_counter
 
 from dotenv import load_dotenv
@@ -6,6 +7,8 @@ import pandas as pd
 import generate_ids as ge
 import extract as ex
 import transform as tr
+
+GENRE_FILE_PATH = "genres.json"
 
 
 def extract() -> list:
@@ -16,14 +19,17 @@ def extract() -> list:
     number_of_ids = len(steam_ids)
     print(f"Starting Extraction... Extracting from {number_of_ids} ids...")
     games_data = []
-    genres = {}
+    # load genre data
+    with open(GENRE_FILE_PATH, "r") as file:
+        genres = json.load(file)
+
     for index, person in enumerate(steam_ids):
         owned_games = ex.get_owned_games(person)
         games = ex.get_games_info(owned_games)
 
         for game in games:
             try:
-                game_genres = genres[game["id"]]
+                game_genres = genres[str(game["id"])]
             except:
                 web_page = ex.get_html(game["id"])
                 game_genres = ex.extract_genre(web_page)
@@ -39,6 +45,12 @@ def extract() -> list:
 
         print(f"Person {index+1}/{number_of_ids} done...")
     print("Extraction Finished!")
+
+    # Export genres to local machine as a json file
+    with open(GENRE_FILE_PATH, "w") as file:
+        json.dump(genres, file)
+    print(f"Genres exported successfully to: {GENRE_FILE_PATH}")
+
     return games_data
 
 
