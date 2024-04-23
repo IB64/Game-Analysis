@@ -24,31 +24,34 @@ def extract() -> list:
         genres = json.load(file)
 
     for index, person in enumerate(steam_ids):
-        owned_games = ex.get_owned_games(person)
-        games = ex.get_games_info(owned_games)
+        try:
+            owned_games = ex.get_owned_games(person)
+            games = ex.get_games_info(owned_games)
 
-        for game in games:
-            try:
-                game_genres = genres[str(game["id"])]
-            except:
-                web_page = ex.get_html(game["id"])
-                game_genres = ex.extract_genre(web_page)
-                genres[game["id"]] = game_genres
+            for game in games:
+                try:
+                    game_genres = genres[str(game["id"])]
+                except:
+                    web_page = ex.get_html(game["id"])
+                    game_genres = ex.extract_genre(web_page)
+                    genres[game["id"]] = game_genres
 
-            games_data.append({
-                'User_Id': person,
-                'Game_Id': game['id'],
-                'Game_Name': game['name'],
-                'Game_Genres': game_genres,
-                'Playtime_Minutes': game['playtime']
-            })
+                games_data.append({
+                    'User_Id': person,
+                    'Game_Id': game['id'],
+                    'Game_Name': game['name'],
+                    'Game_Genres': game_genres,
+                    'Playtime_Minutes': game['playtime']
+                })
 
-        print(f"Person {index+1}/{number_of_ids} done...")
+            print(f"Person {index+1}/{number_of_ids} done...")
+        except Exception as err:
+            print(f"Error occured: {err}. Person {index+1} Skipped...")
     print("Extraction Finished!")
 
     # Export genres to local machine as a json file
     with open(GENRE_FILE_PATH, "w") as file:
-        json.dump(genres, file)
+        json.dump(genres, file, indent=4)
     print(f"Genres exported successfully to: {GENRE_FILE_PATH}")
 
     return games_data

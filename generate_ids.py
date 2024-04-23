@@ -53,13 +53,15 @@ def valid_steam_id(current_steam_id_list: list, steam_id: str) -> bool:
         return False
 
     info = response.json()
+    # If the response is empty
     if not info["response"]:
         return False
 
     # Steam id with 0 games
     if info["response"]["game_count"] == 0:
         return False
-    
+
+    # If steam id is already in recorded steam ids.
     if steam_id in current_steam_id_list:
         return False
 
@@ -122,4 +124,3 @@ def generate_valid_steam_ids(number_to_generate: int) -> None:
         file.write(id + "\n")
     file.close()
     print("Id generation done! Time Elapsed: ", perf_counter() - start)
-
