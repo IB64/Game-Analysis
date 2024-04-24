@@ -11,11 +11,14 @@ import transform as tr
 GENRE_FILE_PATH = "genres.json"
 
 
-def extract() -> list:
+def extract(amount_to_extract: int) -> list:
     """
     Extracts data from a list of steam ids.
     """
-    steam_ids = ge.get_steam_ids()
+    if amount_to_extract > 0:
+        steam_ids = ge.get_steam_ids()[-amount_to_extract:]
+    else:
+        steam_ids = ge.get_steam_ids()
     number_of_ids = len(steam_ids)
     print(f"Starting Extraction... Extracting from {number_of_ids} ids...")
     games_data = []
@@ -80,9 +83,14 @@ if __name__ == "__main__":
         number_to_generate = int(input(
             "Please type how many new ids you would like to generate: "))
         ge.generate_valid_steam_ids(number_to_generate)
+    else:
+        number_to_generate = 0
     start = perf_counter()
 
-    data = extract()
+    data = extract(number_to_generate)
     clean_data = transform(data)
-    clean_data.to_csv("clean_game_data.csv", encoding='utf-8', index=False)
+    if number_to_generate == 0:
+        clean_data.to_csv("clean_game_data.csv", encoding='utf-8', index=False)
+    else:
+        clean_data.to_csv("clean_game_data.csv", mode="a", encoding='utf-8', index=False, header=False)
     print(f"Done! Time Elapsed: {perf_counter() - start} seconds.")
