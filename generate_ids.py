@@ -38,7 +38,7 @@ def valid_steam_id(current_steam_id_list: list, steam_id: str) -> bool:
     """
     Given a string for steam id, check if it's valid. Return True if it is, otherwise false.
     """
-    url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={environ['STEAM_API_KEY']}&steamid={steam_id}&format=json"
+    url = f"http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key={environ['STEAM_API_KEY']}&steamid={steam_id}&format=json&include_appinfo=true"
     try:
         response = requests.get(url, timeout=TIMEOUT)
     except ConnectionError as exc:
