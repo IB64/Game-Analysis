@@ -18,7 +18,7 @@ def extract(amount_to_extract: int) -> list:
     if amount_to_extract > 0:
         steam_ids = ge.get_steam_ids()[-amount_to_extract:]
     else:
-        steam_ids = ge.get_steam_ids()
+        steam_ids = ge.get_ultimate_steam_ids()
     number_of_ids = len(steam_ids)
     print(f"Starting Extraction... Extracting from {number_of_ids} ids...")
     games_data = []

@@ -94,6 +94,15 @@ def get_steam_ids() -> list:
     return content
 
 
+def get_ultimate_steam_ids() -> list:
+    """
+    Returns all the current steam ids that we have collected so far.
+    """
+    with open("ultimate_steam_ids.txt", "r") as file:
+        content = file.read().splitlines()
+    return content
+
+
 def generate_valid_steam_ids(number_to_generate: int) -> None:
     """
     Create a list of 1000 valid steam ids then export it to a text file.
