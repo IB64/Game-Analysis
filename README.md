@@ -22,7 +22,7 @@ Once our extraction was completed and the clean data was onto a CSV file we uplo
 Our Queries and results: Src Folder -> SQL.  
 
 The data analysed in BigQuery was uploaded onto Tableau and we displayed the results in two dashboards:  
-Game Analysis by Playtime: https://public.tableau.com/app/profile/gian.marco.caramelli/viz/SteamGameAnalysisbyPlaytime/Dashboard32 
+Game Analysis by Playtime: https://public.tableau.com/app/profile/gian.marco.caramelli/viz/SteamGameAnalysisbyPlaytime/Dashboard32  
 Game Analysis By User Base: https://public.tableau.com/app/profile/gian.marco.caramelli/viz/SteamGameAnalysisbyUsers/Dashboard2   
 
 Overall the project successfully completed all objectives and delivered insightful visualisation from our data extraction and analysis.   
