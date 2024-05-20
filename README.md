@@ -1,3 +1,5 @@
+# Game Analysis Project By Gian-Marco Caramelli & Angelo Beleno
+
 Objectives:
 Successfully pull data using APIs from  Steam.
 Generate and validate 10,000 Steam Ids using APIs and HTML  extraction 
